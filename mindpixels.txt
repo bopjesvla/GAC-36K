@@ -1,4 +1,3 @@
-   
 	1.00	is icecream cold?
 	1.00	is earth a planet?
 	1.00	Is green a color?
@@ -133,7 +132,6 @@
 	1.00	do people live on earth?
 	1.00	Are clouds made of water?
 	1.00	Are telephones useful for communicating?
-	1.00	where the dinosaurs on earth before humans ?
 	1.00	Do women have breasts?
 	1.00	Is one plus one equal to two?
 	1.00	is white light, such as light from the Sun, is a mixture of all the colors in the visible spectrum?
@@ -3649,7 +3647,6 @@
 	1.00	Is arsenic toxic to humans?
 	1.00	Is planet earth our home?
 	1.00	Is it dangerous to jump from the 4th floor?
-	1.00	where the romans ever led by gaius julius caesar?
 	1.00	does the Human heart have 4 chambers?
 	1.00	Is sexual intercourse a method of human reproduction?
 	1.00	Is Atari the name of a computer game company?
@@ -6234,7 +6231,6 @@
 	1.00	does mayonnaise contain eggs?
 	1.00	Are cats common household pets?
 	1.00	Is paper made out of wood?
-	1.00	Where American Indians unfairly treated?
 	1.00	are roses red and violets blue?
 	1.00	Do you feet hurt after walking all day?
 	1.00	Is orange a combination of red and yellow?
@@ -8142,7 +8138,6 @@
 	1.00	Is Rwanda a country?
 	1.00	Is Czech Republic a country?
 	1.00	Is Yugoslavia a country?
-	1.00	What is slashdot?
 	1.00	Is rock and roll music sometimes vulgar?
 	1.00	Is R.E.M a popular rock and roll band?
 	1.00	Are home light fixtures usually smaller than commercial or industrial ones?
@@ -8705,7 +8700,6 @@
 	1.00	Is a bathroom mirror sometimes the door of a medicine cabinet?
 	1.00	Does a paste have a thick consistency?
 	1.00	On a clock, When the big hand and the small hand are pointing at 12, is it 12:00?
-	1.00	What eats, roots, shoots and leaves? A wombat
 	1.00	Is it possible for an asteroid to hit the earth?
 	1.00	Is a girl a young woman?
 	1.00	Will a stone fall down if dropped from a two storeyed building?
@@ -13334,7 +13328,7 @@
 	0.96	Is mahogany a type of wood?
 	0.96	Is it harder to see dark objects at night?
 	0.96	can beer cause intoxication?
-	0.96	Whould you like to become rich?
+	0.96	Would you like to become rich?
 	0.96	Do Russians speak Russian?
 	0.96	Are some roads made from gravel?
 	0.96	Was Hitler a bad person?
@@ -16996,7 +16990,6 @@
 	0.94	Is gravel bigger than sand?
 	0.94	Was Long John Silver a famous fictional pirate?
 	0.94	Is sand in the swimsuit unpleasant?
-	0.94	what is the color of the milk?
 	0.94	Do women wear makeup more than men do?
 	0.94	Can a cat survive a fall of ten feet?
 	0.94	Is the air quality for animals worse now than it was 200 years ago?
@@ -19108,24 +19101,18 @@
 	0.17	Does Tara fancy me?
 	0.17	Is Badtz Maru a penguin?
 	0.17	Is the sun out at night?
-	0.17	where do you live?
 	0.17	are experiences from previous lives stored in human genetic code?
 	0.17	how ones are there on ten?
 	0.17	Can computers think?
 	0.17	Is 478,843.34 times 743 equal to 689,994,554.20?
 	0.17	is Angel Ezquerra a genius?
-	0.17	What is the square root of 2?
 	0.17	Do Smurfs has tallywackers?
 	0.17	Is the sky black?
-	0.17	What is the sound of one hand clapping?
-	0.17	What age are you?
 	0.17	Do all humans speak?
 	0.17	Do dragons exist?
 	0.17	Is the subway safe at night?
-	0.17	Who killed Abraham Lincoln?
 	0.17	Is all glass transparent?
 	0.17	Is this a useful question?
-	0.17	What time zone are you in?
 	0.17	Are microwaves longer than sound waves?
 	0.17	Did Shakespeare author "The Canterbury Tales"?
 	0.17	is google completely useless?
@@ -19166,7 +19153,6 @@
 	0.17	Is it legal to sell cocaine in the United States?
 	0.17	Can the people fly?
 	0.17	Is the Moral Majority either moral or a majority?
-	0.17	where is virginia?
 	0.17	can a Kiwi fly?
 	0.17	is the moon yellow?
 	0.17	Is the Barbie doll a realistic depiction of a human female?
@@ -19226,9 +19212,7 @@
 	0.17	Is [tNc] an eleet haxor?
 	0.17	Does a man always marry a woman?
 	0.17	do birds eat goats?
-	0.17	Where is the Empire State Building?
 	0.17	Does Bone China come from China?
-	0.17	where is Latvia?
 	0.17	can a person fall up?
 	0.17	Can birds fly underwater?
 	0.17	Is 64 megs of RAM enough?
@@ -19265,15 +19249,12 @@
 	0.17	Is Jesus Christ alive?
 	0.17	does frustration always lead to anger?
 	0.17	is a person a machine?
-	0.17	What is 8-4?
 	0.17	Is a "pebbled finish" the end of a Arizona ski race?
 	0.17	True hacking is dead?
 	0.17	If a planet twinkles does that mean its a star?
-	0.17	Where does the sun rise?
 	0.17	Do people molt?
 	0.17	Does the dog have the Buddha nature?
 	0.17	am i black or white?
-	0.17	What is a table?
 	0.17	CAN YOU LIGHT A FIRE WITH DAMP WOOD?
 	0.17	A Vodka and Tonic is sweeter than a Vodka and Up?
 	0.17	Will you take over the world?
@@ -19288,7 +19269,6 @@
 	0.17	Is an OS/2 better than Windows?
 	0.17	How many pounds in a kilo?
 	0.17	How many flies does it take to screw in a light bulb?
-	0.17	What it the time?
 	0.17	Is Michael Jackson a white person?
 	0.17	Is 1024 a prime number?
 	0.17	are swiss people alcoholic?
@@ -19297,7 +19277,6 @@
 	0.17	Are wombats extinct?
 	0.17	Does everyone in England drink tea?
 	0.17	Is Abe a tease?
-	0.17	What is the mean of life the universe and everything?
 	0.17	How old is the Earth?
 	0.17	Does the pudding bird lay his eggs in the air?
 	0.17	Is alcohol healthy?
@@ -19314,12 +19293,10 @@
 	0.17	When I say "I am blue", that means I am the color blue?
 	0.17	how long is a feet?
 	0.17	Does a rolling stone gather any moss?
-	0.17	What is consciousness?
 	0.17	Is The Matrix possibly what we live in?
 	0.17	Ia a flea a circus animal?
 	0.17	How many quarters are in a dollar?
 	0.17	Does rock cover paper?
-	0.17	What color is a fire truck?
 	0.17	If I told you your body was beautiful, would you hold it against me?
 	0.17	Is the average human life span above 80 years?
 	0.17	kan kameler spytte?
@@ -19332,7 +19309,6 @@
 	0.17	Is Jason Smith of Van Nuys, CA a small mexican gay?
 	0.17	Is wasabi a common Japanese greeting?
 	0.17	Are there palm trees in Michigan?
-	0.17	Why do doctors and dentists normally lie to their patients and hide the truth ?
 	0.17	Is the Mona Lisa a painting of a man?
 	0.17	Is happiness dangerous?
 	0.17	Is BSD better?
@@ -19363,7 +19339,6 @@
 	0.17	Can something that is blind see?
 	0.17	Are cancer cells contagious?
 	0.17	will the iraqi embargo ever be lifted soon?
-	0.17	What is Being?
 	0.17	Does Gravity repel objects from the center of mass of the Earth?.
 	0.17	Is this an answer?
 	0.17	Is it possible to squeeze water from a rock?
@@ -19379,8 +19354,6 @@
 	0.17	Do you understand spanish?
 	0.17	Did Godzilla attack Los Angeles in 1980, only to be stopped by a boy with psychic powers?
 	0.17	Are platypus venomous?
-	0.17	Why do people stay in hotels?
-	0.17	Where does rain come from?
 	0.17	Is sex in public place common?
 	0.17	is sepia an animal?
 	0.17	Do some mammoths live in the zoo ?
@@ -19392,7 +19365,6 @@
 	0.17	Did E.T. exist ?
 	0.17	Does E.T. exist ?
 	0.17	Is Legend Holdings a company from France?
-	0.17	what colour is water?
 	0.17	Does superglue glue at the inside of the glue tube?
 	0.17	is nostradamus right in his predictions?
 	0.17	Are dolphins more inteligent than humans?
@@ -19407,7 +19379,6 @@
 	0.17	Homosexuality is wrong?
 	0.17	is the earth a disc?
 	0.17	do humans taste like chicken?
-	0.17	what is sand?
 	0.17	Do ducks take vacations?
 	0.17	Kas sa räägid eesti keelt?
 	0.17	if one is bigger than two, then two is bigger than three?
@@ -19422,7 +19393,6 @@
 	0.17	Is "yang chin" the name of the Chinese hammered dulcimer?
 	0.17	Can a computer have feelings?
 	0.17	ia a trout a salt water fish?
-	0.17	what start sign are you?
 	0.17	Does this seem like a big scam, getting others to answer the questions?
 	0.17	Will George W. Bush suck the oil out of Saddam?
 	0.17	Do I have blond hair?
@@ -19435,10 +19405,8 @@
 	0.17	Is it morally alright to betray?
 	0.17	Does Windows greater than Linux ?
 	0.17	A statistical method algorithm can fake a real intelligence?
-	0.17	What country is better for living, USA or Netherland or Holland?
 	0.17	Do Portuguese football team Porto win the european championship?
 	0.17	is a hotter sexlife better than worldwide peace?
-	0.17	What is Sweden?
 	0.17	is most of the world Christian?
 	0.17	will computers take over thinking for humans?
 	0.17	Is today a holiday in the United States?
@@ -19446,7 +19414,6 @@
 	0.17	Quantum mechanics is easily understood at the age of 5?
 	0.17	Do you want to marry me?
 	0.17	If the same question is asked every 20 years, will it generate always the same answer?
-	0.17	What is seven plus four?
 	0.17	Should nuclear engineering be free to be experimented?
 	0.17	Are the Nebraska Cornhuskers the greatest team in college football?
 	0.17	will the world end in ice?
@@ -19491,8 +19458,6 @@
 	0.17	if drugs can cure disease and make you better, taking lots of drugsmust be good for you then?
 	0.17	Does dogs and cats like each other?
 	0.17	will the human race exist forever?
-	0.17	What is a horse?
-	0.17	What is the capital of Ukraine?
 	0.17	Is the Antichrist alive?
 	0.17	Is a zebra colored black and blue?
 	0.17	Can giant squids tap dance?
@@ -19500,7 +19465,6 @@
 	0.17	Will Macia Magee strike Jim King dead?
 	0.17	Is the year 2000 the first year of the new millenium?
 	0.17	Are laws against homosexual intercourse likely to reduce the spread of AIDS wherever they are enforced?
-	0.17	What is the second meal of the day?
 	0.17	Does AM mean after noon?
 	0.17	is genitalia an ugly bitch?
 	0.17	Should people who eat a lot of garlic be sent to Spain?
@@ -19518,7 +19482,6 @@
 	0.17	Is brass a pure metal?
 	0.17	Do you think that Bush will win the Presidential race?
 	0.17	is sewage tasty?
-	0.17	what is the color of the sea?
 	0.17	Is Chekov Bester?
 	0.17	is sky on mars blue?
 	0.17	If you put something out of your mind where do you put it?
@@ -19546,7 +19509,6 @@
 	0.17	Five minute intervals are four minutes long?
 	0.17	In baseball, is a strikeout the same as a walk?
 	0.17	Are sharks mammals ?
-	0.17	where is your location?
 	0.17	is the sky pink at noon?
 	0.17	is it possible to fly with a car ?
 	0.17	Have you ever heard of exported arms being recalled for manufacturing defects?
@@ -19558,8 +19520,6 @@
 	0.17	In surveys used in advertising are the 9 out of 10 people asked questions forced to answer at gunpoint or paid large sums of money?
 	0.17	The MAFIA is a helpful organisation?
 	0.17	Scottish goalkeepers are usually hopeless?
-	0.17	what is the largest island on earth?
-	0.17	what is the qualifying IQ needed to enter Mensa?
 	0.17	Is Mexico City a clean place to live?
 	0.17	Do birds fly backwards?
 	0.17	Do police officers always obey the laws?
@@ -19585,7 +19545,6 @@
 	0.17	Is the phrase “Do you think the CIA outside the reach of democratic controls?” a correct English sentence?
 	0.17	Do people see thunder and hear lightning?
 	0.17	Do bad things happen more often on Friday the 13th?
-	0.17	What color has the sky ?
 	0.17	Is AIESEC the bigest students lead association in the world?
 	0.17	Could Underdog beat Spiderman?
 	0.17	If two persons are in a room, is it possible that three persons leave the room ?
@@ -19605,18 +19564,14 @@
 	0.17	is the devil merely an evil condition of mankinds heart?
 	0.17	does only one true religion exist?
 	0.17	How many single digit numbers exist?
-	0.17	What is the diameter of the moon?
 	0.17	Are pretzels made of rice?
 	0.17	is the sun a red giant?
 	0.17	is wood a polymer?
 	0.17	Do animals drive cars ?
-	0.17	What is FPU?
 	0.17	Was Albert Einstein a Frenchman?
 	0.17	Is it wise to remove rings before going on wedding anniversery dinner with your in-laws?
 	0.17	Is homophobia a derogatory term made up to smear and stereotype people who sincerely oppose the homosexual agenda for religious and health reasons?
-	0.17	What do the points of the crown of the Statue of Liberty symbolize?
 	0.17	Is truth easy?
-	0.17	what is the size of your penis, in inches?
 	0.17	is e-commerce a type of e-mail account?
 	0.17	Is it true that all people need are sex and drugs and rock & roll?
 	0.17	Is text hyper?
@@ -19625,8 +19580,6 @@
 	0.17	Are all blondes dumb?
 	0.17	Would you like to come to the movies with me?
 	0.17	after a nun married a priest are they still a nun and priest?
-	0.17	Where is Denmark?
-	0.17	Why are some people blind?
 	0.17	Do the Basque paramilitaries in Spain enjoy widespread public support?
 	0.17	now bollywood is more populer than hollywood?
 	0.17	is it easy to become rich?
@@ -19643,15 +19596,11 @@
 	0.17	Is Disney World the happiest place on Earth?
 	0.17	Is Diablo a dog ?
 	0.17	has south indian astrology true statistical science after 1500 years of mathematical reasearch?
-	0.17	What is the average annual rainfall in the Amazon Basin?
 	0.17	is the answer to this question obvious?
-	0.17	What is 2 divided by 47?
 	0.17	0 is infinity?
 	0.17	When do I take out the garbage?
-	0.17	What temperature is the surface of our sun?
 	0.17	Will I sleep with a lolita soon?
 	0.17	Which is the oldest civilization ?
-	0.17	What is the integral of e to the x?
 	0.17	Do women have chest hair?
 	0.17	Are all humans violent ?
 	0.17	does amrita love me?
@@ -19659,13 +19608,11 @@
 	0.17	Ist Charlotte doof?
 	0.17	which one is faster, a rabit or a turtle ?
 	0.17	You say "Cross your fingers crossed" that the new fix will work. Has that superstitious technique been known to work to keep programs from crashing?
-	0.17	what does a dog dislike most?
 	0.17	Is awareness the same as intelligence?
 	0.17	IS RICHARD GERE A HOMO?
 	0.17	If I feel pretty, do I feel wise?
 	0.17	If the web is based on a circle, and I am at both 0 degrees, and 360 degrees, am I the webs magnetic south?
 	0.17	Is crepe suzette a popular German dessert?
-	0.17	What is the meaning of existence?
 	0.17	Do Bose speakers really suck?
 	0.17	Did only about two million die in death camps instead of the inflated six million figure? true
 	0.17	Is proving or disproving the morality of rascism (or anything else) within the scope of religion?
@@ -19676,7 +19623,6 @@
 	0.17	If we ae human, can we become gods?
 	0.17	are you going to achieve world control?
 	0.17	Is 2 larger than 3?
-	0.17	What is the largest city in Washington?
 	0.17	How many fingers does a normal human have?
 	0.17	Do androids dream of people who dream of biological sheep?
 	0.17	Is Kanon a game of key ?
@@ -19684,20 +19630,15 @@
 	0.17	Can Oranges be pink ?
 	0.17	does bell pepper actually ring?
 	0.17	Is squareroot of 4 is less than 2?
-	0.17	What is the capital of New York state?
 	0.17	can a rocket reach the speed of light?
 	0.17	Was Tasha Yar a better cheif of security than Worf was?
 	0.17	Was Caligula generally considered to be rational?
 	0.17	Does the Roman Empire currently exist?
-	0.17	What happens after the death of human beings?
 	0.17	does USA play cricket?
 	0.17	are the waxholms båtarna green?
-	0.17	what is a wife?
 	0.17	are there more possible true statements than possible false statement in the set of all possible statements ???
-	0.17	What do people do?
 	0.17	is masturbation better way to orgasm then oral sex?
 	0.17	which year did russian revolution happen?
-	0.17	what is it like to be crushed under an elephant?
 	0.17	Can horses fly?
 	0.17	Could it happen that someone forgot to take his right arm along ?
 	0.17	Will Microsoft ever rule the world?
@@ -19710,9 +19651,6 @@
 	0.17	Can a person run easily in restrictive pants?
 	0.17	will i become rich?
 	0.17	are alphabets 24?
-	0.17	What is the highest mountain in the world ?
-	0.17	what is the color of gold ?
-	0.17	What is the heght of the mount everest ?
 	0.17	All space aliens have sulphuric acid in their veins (do aliens have veins... anyway)?
 	0.17	do you like anal sex?
 	0.17	Is Mariane Hackley a natural blonde?
@@ -19720,17 +19658,14 @@
 	0.17	Social security is a bad idea?
 	0.17	Do people often drool from their sacroiliacs?
 	0.17	Do you need to know anything about science or SETI to use SETI@home?
-	0.17	Who killed Kannady?
 	0.17	Is technology infallible?
 	0.17	Is 2x2x2x2x2=1x4?
 	0.17	Do you know who the French president is?
 	0.17	does my home have rats?
 	0.17	Is American fast food good for your health?
-	0.17	What is the definition of gravity?
 	0.17	Was Jesus a freak?
 	0.17	Is war a game?
 	0.17	Is dick in pussy god on earth?
-	0.17	what is the colour of water?
 	0.17	Does the sun have craters?
 	0.17	Is Salvia Divinorum the most potent naturally-occuring psychadelic?
 	0.17	gangtok is the capital of assam?
@@ -19739,24 +19674,18 @@
 	0.17	Should these questions be censored?
 	0.17	Is a woman always true to her man?
 	0.17	DO donkeys fly?
-	0.17	what is a girls for ?
-	0.17	What colors are in the American flag?
 	0.17	Does milk come from horses?
 	0.17	do green jelly babys tast like washing up liquid?
 	0.17	am I the greatest human being that ever existed?
-	0.17	what is a wombat?
 	0.17	So... what is your name?
 	0.17	Is middle Europe center of the World?
 	0.17	Are the French fungi?
 	0.17	Is the color blue red looking?
-	0.17	why the sun exists?
 	0.17	Do birds have hair?
 	0.17	Benötigt ein Drucker viel Speicherplatz?
 	0.17	Can a person survive without food?
 	0.17	are you nuts ?
-	0.17	Why do we have to learn new things ?
 	0.17	Is the Internet a kind of fishing net strung between two boats?
-	0.17	Why does rain fall?
 	0.17	Leben Menschen auf dem Mond?
 	0.17	ladies have cheap cunts?
 	0.17	Ist der Ben schwul?
@@ -19764,37 +19693,28 @@
 	0.17	Can a subgroup of a finite group have more elements than the group itself?
 	0.17	in dog conformation contests, what do you call the top female of the "classes"?
 	0.17	is a "special" a dog who has already finished its championship?
-	0.17	why should not i become rich?
 	0.17	is paper edible?
 	0.17	Can I walk on water?
 	0.17	aare you hungry?
 	0.17	Have you visited this http://simon.chchost.com link?
 	0.17	All women are shorter than men?
 	0.17	Are olympic games 58 times during 100 years ?
-	0.17	why a snake bites?
 	0.17	do you will be more smart than Albert Eisntein in the future?
 	0.17	is lying good?
 	0.17	I should steal?
 	0.17	is two plus two, six?
-	0.17	who were The Beatles?
-	0.17	What is the main artery in the human body ?
-	0.17	why not tolerism?
-	0.17	why do not bother about others?
 	0.17	Are you depending from your creator?
 	0.17	Är vatten blött ?
 	0.17	French persons are more intelligent than americans ?
 	0.17	les poulets ont ils vingt hui pattes?
-	0.17	what colour is Mars?
 	0.17	is the true false?
 	0.17	do aliens exist inside my brain?
 	0.17	Are you more intelligent than a human?
 	0.17	is there completely satisfied being ?
-	0.17	why tomato is so called?
 	0.17	IS MOON WHITE IN COLOUR?.
 	0.17	can you fight the moonlight?
 	0.17	does a woman have a penis?
 	0.17	Do many small fish make as nice a meal as one large fish?
-	0.17	who discovered that earth is not in the center of the universe?
 	0.17	Les aliens existent ils?
 	0.17	How many times does a blue moon happen in a year?
 	0.17	are humans rulers of the universe?
@@ -19816,11 +19736,8 @@
 	0.17	do elephants give birth to eggs ?
 	0.17	lion is herbivorous?
 	0.17	if i have no hand, can i learn calcul on my thingers ?
-	0.17	what day is this?
-	0.17	Where do Kangaroos come from?
 	0.17	are u married?
 	0.17	Do the dead sweat?
-	0.17	What do you know about dogs ?
 	0.17	Has every president of the united states been having sex with white house staff members?
 	0.17	Will EBERLIN Maelys love me in some days ?
 	0.17	Will i mary me after i am 30 years old ?
@@ -19832,31 +19749,25 @@
 	0.17	Does a line have height?
 	0.17	Does pencil lead actually contain lead?
 	0.17	Is Bill Clinton a women?
-	0.17	What is the average size of the male genital?
 	0.17	combien de pattes possède un âne ?
 	0.17	Can everyone speak English?
 	0.17	Is it true that most five-year olds have their driving license?
 	0.17	do you see your god?
 	0.17	Is Glen Benton the vocalist for Deicide?
 	0.17	are jokes always funny?
-	0.17	What is the population of China?
 	0.17	Will computer inteligence have to illiminate inferior humans, when the time comes?
 	0.17	Should the oil in a car be changed about every 50,000 miles?
 	0.17	Would you find kittens in a medicine cabinet?
 	0.17	Would you find pigs in a piggy bank?
 	0.17	david is gay ?
 	0.17	Does A squared plus B squared always equal C squared?
-	0.17	who do you think will win presidency, al gore or george bush?
 	0.17	Do most people discuss their masturbation habits with others?
 	0.17	is a rose green?
 	0.17	Is Marcelo Juventino a cabaço?
 	0.17	does the perpetuum mobile exist?
-	0.17	where is Brazil ?
 	0.17	Will the Mariners win the World Series?
-	0.17	who discovered brazil?
 	0.17	is a dog an onion?
 	0.17	Having a flu is pleasent?
-	0.17	what does FTP mean?
 	0.17	If you go to a hockey game is it unusual to see a fight between members of the opposing teams?
 	0.17	Are penguins fish?
 	0.17	come ti chiami?
@@ -19871,15 +19782,12 @@
 	0.17	is being fired from your job usually a good thing?
 	0.17	are computers sentien?t
 	0.17	Do you give head?
-	0.17	What is the color of a tree leave?
 	0.17	are ants bigger than ants ?
 	0.17	Is inter-uterine movement caused by the baby writing on the walls?
 	0.17	Gli alberi sono verdi?
 	0.17	Is the BBC (Brittish Broadcasting Corporation) A total rip off?
-	0.16	what is your name?
 	0.16	Is money the root of all happiness?
 	0.16	Are you suspicious of Canada?
-	0.16	where is palo alto?
 	0.16	Was mathimatics the first comunication sistem?
 	0.16	was jfk killed by the cia?
 	0.16	i will click the about.com ad?
@@ -19890,14 +19798,11 @@
 	0.16	Can humans fly?
 	0.16	are you hungry ?
 	0.16	is a physicist a digital philosopher?
-	0.16	what is the diameter of the earth?
 	0.16	Are all riddles difficult?
-	0.16	What is the capitol of Idaho?
 	0.16	Did you have sex yesterday?
 	0.16	Does might make right?
 	0.16	Will brand X washing powder really remove those stubborn stains?
 	0.16	Is Earth the in the first orbit away from the Sun?
-	0.16	What is the first day of the 21st century?
 	0.16	Can an unladen sparrow fly faster than an unladen eagle?
 	0.16	are all trees tall?
 	0.16	does diet coke have sugar?
@@ -19941,12 +19846,10 @@
 	0.16	Are Televangelists really devil-worshipers?
 	0.16	Has there ever been a baseball player named Gutner Glut?
 	0.16	is there a largest prime number?
-	0.16	What are you doing?
 	0.16	Is Bill Clinton the Antichrist?
 	0.16	Is Jerry Springer gay?
 	0.16	Do all important questions have a yes or no answer?
 	0.16	Does China hold free elections?
-	0.16	what is the fastest animal?
 	0.16	Is white a prime colour?
 	0.16	Are human beings infallible?
 	0.16	Is Saul Bass a better designer than David Carson?
@@ -19977,8 +19880,6 @@
 	0.16	Can you explain the color blue (yes/no)?
 	0.16	Are sport utility vehicles typically used as depicted in TV commercials?
 	0.16	is bill gates the devil?
-	0.16	Why am i so depressed by you?
-	0.16	What is a planet?
 	0.16	Will robots take over the world?
 	0.16	Does the "D.C." in "Washington D.C." stand for "Deviate Congress?"
 	0.16	Should I sue my mother for giving me bad advice?
@@ -19986,13 +19887,11 @@
 	0.16	Is Mexico north of America?
 	0.16	In what state is the city of Los Angeles?
 	0.16	do hawaiian tailors mow grass skirts?
-	0.16	what colour is the sea?
 	0.16	does oscar mayer make cookies?
 	0.16	is bubblegum made of rubber?
 	0.16	can men breastfeed?
 	0.16	Are men pigs?
 	0.16	Are two snowflakes ever alike?
-	0.16	what time is it?
 	0.16	Does this website stop responding all the time?
 	0.16	Do tabs of duct tape sticky-side-out prevent baby from bouncing?
 	0.16	do mice with buttons have eyes?
@@ -20001,8 +19900,6 @@
 	0.16	are oranges green?
 	0.16	Do only fools fall in love?
 	0.16	is life pointless?
-	0.16	what is the capital of thailand?
-	0.16	what is black?
 	0.16	Will artificial intelligence replace human thought?
 	0.16	Does every year have 365 days?
 	0.16	Do women generally like the taste of seman?
@@ -20012,17 +19909,13 @@
 	0.16	Is Dunegons and Dragons satanic?
 	0.16	Is it often hot in Alaska?
 	0.16	Is it fair for women with brest implants to be annoyed at men for staring at them?
-	0.16	what colours are trees?
 	0.16	Is it raining outside?
 	0.16	is Mother Russia really that great?
-	0.16	What is SGI?
 	0.16	Dear pig, are you willing to sell for one shilling your ring?
 	0.16	Can a larger object be completely contained within an object smaller than itself?
 	0.16	how fast can you sort data?
 	0.16	Is a whale a big fish?
 	0.16	does a CD rom store over 1 gigabyte of data?
-	0.16	What direction does the sun rise from?
-	0.16	What is the unit of weight on earth?
 	0.16	Did Courtney kill Kurt?
 	0.16	In which continent is Sweden located?
 	0.16	Does Al Gore think like the unibomber?
@@ -20060,30 +19953,24 @@
 	0.16	Can Bach can be played on internal organs?
 	0.16	Is the nearest star system inhabited?
 	0.16	lo schermo è acceso?
-	0.16	what is 2 2?
 	0.16	Does Skull of pvponlie.com fame have l33t gaming skills because of his fez?
 	0.16	do tailless cats have tails?
 	0.16	Can an object be completely green and completely blue at the same time?
 	0.16	Do stars really twinkle?
-	0.16	What color is grass normally?
 	0.16	Does the word "fuck" stand for "For Unlawful Carnal Knowledge?"
 	0.16	A dead cat is a good cat?
-	0.16	What is the deepest lake in the United States?
 	0.16	Voulez vous couchez avec moi?
 	0.16	Are you woman?
 	0.16	Do fish close their eyes when they sleep?
 	0.16	Is an earthquake on Mars called a marsquake?
 	0.16	Microsoft is a disease?
 	0.16	Is it wrong to sunbathe?
-	0.16	What is the name of the largest country in the world?
 	0.16	Is Mr S.R. Nathan the president of Singapore?
 	0.16	Is Deep Space Nine a TV show about 9 scuba divers in the Pacific Ocean?
-	0.16	what is your favorite matter?
 	0.16	Hablas español?
 	0.16	Is U.S. consciouness global consciouness?
 	0.16	is america evil?
 	0.16	is olaf a bad guy?
-	0.16	Who is the president of the USA now?
 	0.16	are humans more powerfull then an locamotive?
 	0.16	Can water burn?
 	0.16	is sadness something to ignore?
@@ -20091,12 +19978,9 @@
 	0.16	Is Brutus the mascot for the Ohio State Buckeyes?
 	0.16	is aluminum heavier than gold?
 	0.16	Can worms see?
-	0.16	What is Consumer Reports most highly rated vehicle?
 	0.16	how old am i?
 	0.16	do computers fly ?
-	0.16	Where is Lyon?
-	0.16	where is West Lafayette?
-	0.16	Is a foot 10 inches long?
+1	0.16	Is a foot 10 inches long?
 	0.16	will sunderland win the premiership?
 	0.16	does daylight savings time really save time?
 	0.16	would a wood chuck still chuck wood if he wasnt a wood chuck?
@@ -20115,8 +19999,6 @@
 	0.16	Is software piracy legal ?
 	0.16	TV was invented by Farnsworth?
 	0.16	Did Ghandi lead violent protests against the British?
-	0.16	What are comets made of?
-	0.16	what are books made of?
 	0.16	when I close my eyes, do I go blind?
 	0.16	Did you know that Polyplacognathus ramosus might be one of your ancestors?
 	0.16	Do most people enjoy biting their lips?
@@ -20144,7 +20026,6 @@
 	0.16	is life a simulation?
 	0.16	are lepers okay to touch?
 	0.16	Is Bill Gates 30 years old in the year 2000?
-	0.16	Who created the universe?
 	0.16	Does lead float in water?
 	0.16	Do you suck penis?
 	0.16	Is this all a big joke?
@@ -20162,13 +20043,11 @@
 	0.16	Is life all about how much you own?
 	0.16	is the earth a fourth planet in our solar system?
 	0.16	Is there and NBA team in Sydney?
-	0.16	What colour traffic signal means go?
 	0.16	Do humans walk on their hands?
 	0.16	Is cancer a result of a viral infection?
 	0.16	Is it possible for me to logically deduce that I am my own Grandfather?
 	0.16	Is high school pointless?
 	0.16	in a vacuum, do heavy things fall faster than light ones?
-	0.16	why does the air smell bad?
 	0.16	is larry a dog ?
 	0.16	Are homosexual rapists able to repeat their crimes after they are lawfully tried and executed?
 	0.16	do you speak japanese ?
@@ -20201,7 +20080,6 @@
 	0.16	Is it possible to get blood from a stone?
 	0.16	Would a wood chuck chuck 50 lbs of would if a would chuck could chuck wood?
 	0.16	does zorro exist ?
-	0.16	What noise does a duck make?
 	0.16	Is television necessary?
 	0.16	Was Jack the Ripper ever caught?
 	0.16	is death happy ?
@@ -20216,16 +20094,13 @@
 	0.16	Is Michigan going to beat UCLA?
 	0.16	Are hamburgers made from ham?
 	0.16	Is North Dakota part of South Dakota?
-	0.16	what color is a cardinal?
 	0.16	How many commandments are in the bible?
 	0.16	Do intelligent beets exist?
 	0.16	Do the french really stink of onions?
-	0.16	Why are you wrong about God?
 	0.16	Is the 8088 a 32-bit processor?
 	0.16	does the equator pass through australia?
 	0.16	are apples a vegetable?
 	0.16	are boobies and panties the two best words in the english language?
-	0.16	What is autism?
 	0.16	Is mud-wrestling an Olympic sport?
 	0.16	Are the nations of the world fairly represented by the WTO (World Trade Organisation)???
 	0.16	howz that PUMA doin? good?
@@ -20233,31 +20108,23 @@
 	0.16	Do pixies exist?
 	0.16	Are milestones and millstones structurally similar?
 	0.16	Have crime rates dropped in every state that has legalized the carrying of concealed weapons?
-	0.16	What is the average hight for a male born in the uk in the year 1982?
 	0.16	Is intelligent the same as knowledgable?
 	0.16	Chester is the capitol of England?
 	0.16	Is coal collected from the sea?
 	0.16	Yvonne loves Marco ?
 	0.16	color of the sky ?
 	0.16	color of sky ?
-	0.16	what is democracy?
-	0.15	Who is your creator?
 	0.15	are you frequently unconscious at inappropriate times?
-	0.15	Where is Chile ?
 	0.15	Will I marry Galina in 3 years?
 	0.15	Is soup cold?
 	0.15	do women with augmented breasts usually become strippers ?
 	0.15	is shit salty ?
 	0.15	does hillary have balls ?
-	0.15	Why did you make this site difficult to navigate?
 	0.15	Is the Landmark Forum a cult?
-	0.15	Who are the Autobots?
 	0.15	Is AI just a database of questions and answers?
 	0.15	is dan queer?
 	0.15	do fish breathe air?
 	0.15	Is kuro5hin.org better than slashdot.org?
-	0.15	Why do people dig golden showers?
-	0.15	What is the capital of Illinois?
 	0.15	Are you 31337?
 	0.15	Does time ever stand still?
 	0.15	Voce entende portugues?
@@ -20294,7 +20161,6 @@
 	0.15	Is the phrase-“I knew about that on the news last night” a correct English sentence?
 	0.15	Is the phrase-“He suggested me I get a job in a bank” a correct English sentence?
 	0.15	Is the phrase-“She’s as tall than me” a correct English sentence?
-	0.15	What is the capital of New Zealand?
 	0.15	The Global Economy is a Doomsday Machine?
 	0.15	Have you ever been arrested?
 	0.15	Is sheeps the plural of sheep?
@@ -20304,7 +20170,6 @@
 	0.15	Do you think the Freedom of Information act is a farce?
 	0.15	does evil exist because god is imperfect?
 	0.15	All wiyht. Rho sritched mg kegtops awound?
-	0.15	who invented the lightbulb?
 	0.15	Is pi rational?
 	0.15	Is the theory of evolution false?
 	0.15	Can a computer have a soul?
@@ -20322,10 +20187,8 @@
 	0.15	can people breathe under water?
 	0.15	Is today Saturday?
 	0.15	Do flowers grow in tarmac?
-	0.15	What does an orange taste like?
 	0.15	Are there usually letters on the 1 button on a telephone?
 	0.15	Would I continue to work if I won the powerball lottery?
-	0.15	What is the best computer operating system?
 	0.15	Am I rich ?
 	0.15	Is the group FINKL in the United States next week?
 	0.15	Does Youlian have cancer of the big toe?
@@ -20338,7 +20201,6 @@
 	0.15	Is all "progress" necessarily good?
 	0.15	When Jesus comes back, should we kill him again?
 	0.15	does Star Wars only refer to a movie?
-	0.15	What is a cold?
 	0.15	If termites eat wood, is there a creature that eats concrete?
 	0.15	Do all cars have four wheels?
 	0.15	was einstein a good singer?
@@ -20350,12 +20212,10 @@
 	0.15	Is a person a government?
 	0.15	Are videophones a popular tool?
 	0.15	If I smoke marijuana in my home, am I violating your rights?
-	0.15	Who was Einshtein?
 	0.15	will an upside-down glass hold liquid?
 	0.15	can you see a rainbow at night?
 	0.15	Can plants talk?
 	0.15	Do dachshunds have longer legs than most dogs?
-	0.15	What is the highest mountain peak on the earth?
 	0.15	Did Jerry Garcia ever sing with Elvis?
 	0.15	The Coalman is a very low temperature spade?
 	0.15	is a night-light made of light?
@@ -20371,7 +20231,6 @@
 	0.15	Is Pamela Lee Anderson ugly?
 	0.15	How many quarts are in a gallon?
 	0.15	Are fictional characters real?
-	0.15	What time of day is noon?
 	0.15	Is a dick up the ass good?
 	0.15	Is it cold in January in Austrailia?
 	0.15	Most countries allow gay marriages?
@@ -20384,7 +20243,6 @@
 	0.15	Will the world end soon?
 	0.15	Want to have sex with me?
 	0.15	If all cats are felines, and all cats are yellow, are all felines yellow?
-	0.15	what is the fourth planet?
 	0.15	is watching television a productive use of time?
 	0.15	Can a virus replicate itself without a host cell?
 	0.15	Is Fay Wong a Mexican actress?
@@ -20414,7 +20272,6 @@
 	0.15	Will I ever win the lottery?
 	0.15	Can you taste clouds?
 	0.15	Are there Interstate highways in Hawaii?
-	0.15	What is the capitol of Czech Republic?
 	0.15	Are all men violent?
 	0.15	Will my life be better if i drink more alchol?
 	0.15	Are there only two political parties in the US?
@@ -20444,7 +20301,6 @@
 	0.15	Is it true, that dogs who bark will not bite you?
 	0.15	Is Intel going to die soon?
 	0.15	Will Kati be my next girl-friend ?
-	0.15	What was the biggest unhuman event in the world in the last century?
 	0.15	can weapons feed?
 	0.15	are woman stupid?
 	0.15	Ist ein Sub-Antrieb möglich ?
@@ -20456,9 +20312,7 @@
 	0.15	Does 16 multiplied by 8 equal 136?
 	0.15	Did Willaims Shakespeare write Of Mice and Men?
 	0.15	Did Adolf Hitler do good things ?
-	0.15	What is the capital city of Washington State?
 	0.15	Am I your master?
-	0.15	Who plays Lister in Red Dwarf?
 	0.15	if a sheppard has 12 sheep and five of them die, does he still have 12 sheep?
 	0.15	is death cool?
 	0.15	Is there any way i can check what happens to my questions here ?
@@ -20467,7 +20321,6 @@
 	0.15	Do I live in Florida?
 	0.15	Does wearing a necktie make an employee more professional or productive?
 	0.15	Is Soylent Green found in real supermarkets?
-	0.15	what is the light?
 	0.15	Is homosexuality a sin?
 	0.15	are you running under unix?
 	0.15	Will the Vikings win the superbowl?
@@ -20480,7 +20333,6 @@
 	0.15	Do you know the Internet Oracle?
 	0.15	Is it ok to rest your balls on small woodland creatures?
 	0.15	Do apes look like they give lots of blow jobs on a regular basis?
-	0.15	What are cumulus clouds?
 	0.15	Does a computer have intestines?
 	0.15	is the square of zero 1?
 	0.15	Is a cathedral a type of chalice?
@@ -20489,7 +20341,6 @@
 	0.15	how many shares do i get?
 	0.15	Is a computer capable of independent sentient thought?
 	0.15	Is the human brain a strictly binary computer?
-	0.15	what time is it ?
 	0.15	Internet in space would be called Outternet?
 	0.15	am i a fool for caring?
 	0.15	can people ever be happy being alone ALL the time?
@@ -20498,18 +20349,14 @@
 	0.15	Hat das Jahr 278 Tage ?
 	0.15	does starship enterprise exist?
 	0.15	Are most Canadian men lumberjacks?
-	0.15	who is Hitler?
 	0.15	Do most eastern european girls feed exclusively on onions?
 	0.15	do basketball players have big dicks?
-	0.15	what color is a clear sky in the middle of the day?
 	0.15	Are large and small synonyms?
 	0.15	Are subatomic particles larger than atomic particles?
-	0.15	what is the chemical symbol of water?
 	0.15	Is this question gramatical correct?
 	0.15	is an avacdo a nut?
 	0.15	Were rabbits a native species of australia?
 	0.15	Is Saudi Arabia a liberal democracy?
-	0.15	What is the capital city of England?
 	0.15	Could Ron Jeremy suck his own penis?
 	0.15	Most men find the idea of two women kissing to be a turn-off?
 	0.15	can a bunch of burning Mexicans be considered a grease fire?
@@ -20537,7 +20384,6 @@
 	0.15	does Roger Waters still feel artistic insecurity about the superior musical ability of flatulent camels?
 	0.15	Is "pretty" a vulgar word?
 	0.15	Does the Pope like porno ?
-	0.15	who do you think will win the election?
 	0.15	Are there more than two sexes in the human race?
 	0.15	Is McDonald better than Burger-King?
 	0.15	Can you prove everything?
@@ -20546,7 +20392,6 @@
 	0.15	do kids like coffee?
 	0.15	does Chris take it up the ass?
 	0.15	Do minds become dull with use?
-	0.15	What is the colour of grass in winter in Calgary?
 	0.15	Is drinking lemonade bad for my health?
 	0.15	will the human race survive if it does not reproduce itself?
 	0.15	Is nudity bad?
@@ -20555,7 +20400,6 @@
 	0.15	Does body piercing make you more attractive?
 	0.15	Have the Nazis done more good than bad?
 	0.15	Do tigers normally eat giraffes ?
-	0.15	What is the name of God?
 	0.15	Is everyone under the age of 21 a child?
 	0.15	Is the asteroid belt between Neptune and Uranus?
 	0.15	is the 12K 12 gauge assault shotgun a long range sniper weapon ?
@@ -20608,7 +20452,6 @@
 	0.15	Is UNIX an object-oriented programming language?
 	0.15	Is California east of New York?
 	0.15	Do slugs have hands?
-	0.15	Why do you think that you are a human being?
 	0.15	are perceptions the reality ?
 	0.15	can you survive without sleep?
 	0.15	Does a hermit love to mingle?
@@ -20653,7 +20496,6 @@
 	0.15	Do Humans have exoskeletons?
 	0.15	How is the weather in Stuttgart?
 	0.15	Is pubic hair often found between teeth ?
-	0.15	what is oranium?
 	0.15	Was HAL correct in his diagnostic of the AE135 unit?
 	0.15	Is Mary a lamb?
 	0.15	Are boy bands popular because of their musical talents?
@@ -20693,46 +20535,35 @@
 	0.15	Can things fall up?
 	0.15	Does Tiger Woods win every tournament he plays?
 	0.15	If A implies B, and B is false, must A be false?
-	0.15	what is the most dangerous thing about hurricanes?
 	0.15	is green the combination of red and blue?
-	0.15	Who is sexier, men or women?
 	0.15	All insects can fly?
 	0.15	can people fly???
 	0.15	How many fingers does a human being have?
 	0.15	the rounder we go, the faster we get?
 	0.15	Can the starship enterprise exceed warp 10?
 	0.15	Are statues human ?
-	0.15	Who wrote "Dune?"
 	0.15	Have the Milwaukee Brewers ever won a world series?
 	0.15	Does Chris Mac have a brain or ????
 	0.15	Is the universe contracting?
 	0.15	Is homophobia a derogatory term made up to smear, silence, and stereotype former homosexuals who attempt to speak at schools?
 	0.15	Are cats perfect?
 	0.15	Do woodchucks really chuck wood?
-	0.15	What causes the tides in the oceans of the earth?
 	0.15	is using a vibrator bad ?
-	0.15	who is associated with the famous equation e=mc^2 ?
-	0.15	What is the sum of one plus one?
 	0.15	do Ren and Stimpy still plague you ?
-	0.15	what time is it in Sydney?
 	0.15	click?
 	0.15	Is the Internet Oracle a real being?
 	0.15	is human race the only one in the universe ?
 	0.15	Is a "wild goose chase" a sporting event involving the chasing of wild geese?
-	0.15	where is slough?
 	0.15	Man is the only Intelligent organism in the Existence?
 	0.15	when taking risks, is it a good idea to not study them?
 	0.15	Does "Winston taste good like a cigarette should?"
 	0.15	How hot does water need to boil?
 	0.15	do all cars run on gasoline?
-	0.15	what is the closer star to earth?
-	0.15	whats the time?
 	0.15	If something was black yesterday, what colour it is today?
 	0.15	Are Americans morally superior to other people?
 	0.15	All people have God-given human rights regardless of sexual orientation, but these do not include the right to have sex outside of marriage?
 	0.15	WHEN WILL THE QUESTIONS GET ANY HARDER, COMMAND CENTRAL?
 	0.15	How many eggs in one dozen eggs?
-	0.15	where is wellington?
 	0.15	Does monopoly board game let players buy GO?
 	0.15	A disgrontificator is an air filtration device on auto exhaust systems without which the car stops?
 	0.15	How long is a year?
@@ -20742,27 +20573,19 @@
 	0.15	Can a deck chair be a great stage performer?
 	0.15	Does the phrase "give it a rest" mean anything to the knucklehead who submits dictionary definitions?
 	0.15	is the moon only planet of our earth?
-	0.15	what does the cow eat?
 	0.15	MY COMPUTER IN NETWORK OFTEN JUMPS OUT OF THE NET WORK PL HELP ME WHY IT DOES SO?
 	0.15	Did Arthur C. Clarke invent the satellite?
 	0.15	Can a cat bark?
-	0.15	what is the meaning of the word stupid?
 	0.15	Is property theft?
 	0.15	Are Tigers extinct ?
 	0.15	If you agree with the answers to the questions, do you feel guility?
-	0.15	where the human come and go?
 	0.15	Is the book food ?
 	0.15	Do you know my Password?
-	0.15	what is a television?
 	0.15	did Robert Burns write a poem called Nine Inch Will Please A Lady?
-	0.15	where i can find the freebies?
 	0.15	Is any smoker going to die after 10 years of smoking?
 	0.15	Does God take a deep personal interest in your health?
 	0.15	Does relational mean the same as hierarchical?
 	0.15	how many leg hove a person?
-	0.15	What is Eastern Standard Time?
-	0.15	why people afraid of water?
-	0.15	What kinda faith is binary?
 	0.15	Can a blind human being see?
 	0.15	Was Abraham Lincoln the first President of the United States?
 	0.15	do you think I have to kill myself?
@@ -20774,7 +20597,6 @@
 	0.14	Did Newton create the theory of relativity?
 	0.14	is martino romaniello french?
 	0.14	Is RedDog a great game?
-	0.14	What is the color of the sky?
 	0.14	Does the latin Alphabet contains 92 letters?
 	0.14	do women drive better than men?
 	0.14	Is there a way to find out when I will marry Galina?
@@ -20784,11 +20606,8 @@
 	0.14	is less better than more?
 	0.14	Does all protein come from animals?
 	0.14	can a human being travel outside of his or her own body, travel somewhere, and then return?
-	0.14	what are geodes?
 	0.14	Are you a male?
 	0.14	Did Czar Nicholas II die of old age?
-	0.14	Who is the president of the United States?
-	0.14	Why is it raining?
 	0.14	Are sport utility vehicles fuel efficient?
 	0.14	Is it good to take pleasure in suffering?
 	0.14	does one plus apple equal two?
@@ -20817,10 +20636,7 @@
 	0.14	Is a zygote a conscious being?
 	0.14	Are bookies generally found in bookstores?
 	0.14	Is it easy to see through an opaque bottle?
-	0.14	what is the time?
 	0.14	Are all organisms that move animals?
-	0.14	What is the fastest database in the world?
-	0.14	who is Noel Gallagher?
 	0.14	is american a language?
 	0.14	Should you take advantage of other people’s stupidity?
 	0.14	Is the phrase- “What rude man” a correct English sentence?
@@ -20828,7 +20644,6 @@
 	0.14	Do computers have parents?
 	0.14	Can i live for ever?
 	0.14	Does Chris work at Paranal?
-	0.14	Who takes over the presidency of the United States if the current president dies?
 	0.14	Do you think the CIA is less powerful than the FBI?
 	0.14	Is the phrase “Does most relationships involve more than two people” a correct English sentence?
 	0.14	Is religion older than religion?
@@ -20843,17 +20658,14 @@
 	0.14	Is QuickBooks a graphics editing program?
 	0.14	Is it polite to wear a hat inside?
 	0.14	Are any two snowflakes the same shape?
-	0.14	What is ADO?
 	0.14	Are human babies born with 6 fingers on their hands considered normal?
 	0.14	Does an umbrella protect you from sand?
 	0.14	Can humans live without ever sleeping?
 	0.14	Do all humans procreate?
 	0.14	Are mean people popular?
-	0.14	what year was john lennon killed?
 	0.14	Is guitar-based music is on its way out?
 	0.14	Babies can read?
 	0.14	Will time ever stop?
-	0.14	who won survivor?
 	0.14	Is David Carson a better graphic designer than Saul Bass?
 	0.14	Is zzyzzy a real word?
 	0.14	Is dry ice frozen water?
@@ -20875,9 +20687,7 @@
 	0.14	Do people have to speak to communicate with each other?
 	0.14	Can the same word be written only once?
 	0.14	Is day trading a disease?
-	0.14	what color is the sky on mars?
 	0.14	is ohio the largest state in north america?
-	0.14	What is 2 2?
 	0.14	Is it possible to travel to the center of the earth by entering a volcano?
 	0.14	If I change my mind, am I a different person?
 	0.14	Are all plants green in color?
@@ -20898,43 +20708,32 @@
 	0.14	Do you want to touch a hot stove?
 	0.14	If i watch porn nightly, will I go to hell?
 	0.14	Is Derek gay?
-	0.14	what should i wear today?
 	0.14	All gypsies in Rome, Italy are thieves?
 	0.14	do two wrongs make a right?
-	0.14	what is a cow?
 	0.14	can money buy you love?
 	0.14	is pepperoni an ingredient in Hawaiian pizza?
-	0.14	why does my breath smell?
 	0.14	Is johnjacobjinglehermierschmit my name too?
 	0.14	Is joe lee a member of your site?
-	0.14	what colour is an apple?
-	0.14	what is the value of pi?
 	0.14	http://www.matrixlife.com is my life in the matrix?
 	0.14	is flesh brittle?
 	0.14	Do ashtrays have moving parts?
 	0.14	Are humans alone in the Universe?
 	0.14	Does the matrix dictate what happens in the world?
-	0.14	What is the circumference of Jupiter?
 	0.14	can ferrets eat people?
-	0.14	What is the color of water?
 	0.14	How long is my dick?
 	0.14	Is sacramento a desert?
 	0.14	latin american countries usually speak english?
 	0.14	Is fiction real?
-	0.14	what color is a Twinkie?
 	0.14	Do women grow beards?
-	0.14	What color is an evergreen?
 	0.14	am i mineral?
 	0.14	will the human race end in nuclear war?
 	0.14	Does Chevrolet make bombs?
-	0.14	who freed the slaves?
 	0.14	are electrons made from elements?
 	0.14	do humans have 20 toes?
 	0.14	Which is the planet nearest to the Sun?
 	0.14	Is there any frogs in the ocean?
 	0.14	Do humans ever have three eyes?
 	0.14	Do cows have cowlicks?
-	0.14	who is the best artist?
 	0.14	are all roads connected?
 	0.14	are men sexually attracted to old women?
 	0.14	Is Bill Clinton a republican?
@@ -20945,10 +20744,8 @@
 	0.14	will satan one day rule the world?
 	0.14	Can I walk to the moon?
 	0.14	Is it daylight in New York when it is night in Atlanta?
-	0.14	What is your nationality?
 	0.14	are aliens habitants of this world?
 	0.14	is forensics a high school speach and debate club?
-	0.14	Who is Richard Stallman?
 	0.14	Are greyhounds always gray hounds?
 	0.14	do you think that the machines are goin? to kil the humans??
 	0.14	Would you intentionally harm a stranger you knew nothing about?
@@ -20988,7 +20785,6 @@
 	0.14	Is a CAMAC bad?
 	0.14	are you square?
 	0.14	fwas thiss gramatically correct?
-	0.14	what is the colour of the sky?
 	0.14	is Monaco a large country?
 	0.14	Is the world going to die....soon..?
 	0.14	Is the Moon an asteroid?
@@ -21003,7 +20799,6 @@
 	0.14	w00t?
 	0.14	is the death a real person?
 	0.14	Will artificial intelligence kill humans?
-	0.14	What are the three primary colours of light?
 	0.14	is it possible to read a book in the dark?
 	0.14	Is Live endless?
 	0.14	Are the twelve men who walked on the moon, moon men?
@@ -21015,7 +20810,6 @@
 	0.14	does time cease?
 	0.14	Were the aboriginal peoples of North America treated fairly by European arrivals?
 	0.14	Is www.bilzonen.dk the best car-site in Denmark?
-	0.14	What colour does an egg have?
 	0.14	Is the Lord of the Rings the best book?
 	0.14	Is travelling by car safer than travelling by plane?
 	0.14	Is a dozen more than a score?
@@ -21026,7 +20820,6 @@
 	0.14	If power corrupts, does using electrical also corrupt?
 	0.14	Can false answers equal true answers?
 	0.14	When it is night in London, is it dark in Japan too?
-	0.14	What is the definition of a circle?
 	0.14	Is it a good thing to be selfish?
 	0.14	Satan?
 	0.14	Are rabbits carnivores?
@@ -21049,7 +20842,6 @@
 	0.14	You like Depeche Mode?
 	0.14	Can one hear stereo with one ear?
 	0.14	is general relitivity a complete model of the universe?
-	0.14	What is the capitol of Washington state?
 	0.14	is celine dion the greatest singer in the world?
 	0.14	is it acceptable to kill someone?
 	0.14	Is trent reznor a wad of cookie dough?
@@ -21061,7 +20853,6 @@
 	0.14	Do the chineese worship a creul cat headed goddess?
 	0.14	Are all persons with the surname of Singh, Sikhs?
 	0.14	How many people are the average on all continents, currently?
-	0.14	what area of London England are the houses of parliament in?
 	0.14	Are you considered gay if you wear a dress?
 	0.14	Is it shamefull to be sophomore?
 	0.14	Would the end of the world be a relaxing event?
@@ -21070,9 +20861,7 @@
 	0.14	Is it theoretically possible for man to surpass the speed of light?
 	0.14	do many people live to be a hundred year old?
 	0.14	Are women submissive?
-	0.14	What time is it in London?
 	0.14	Do humans learn from their failures by the first time?
-	0.14	what is the color of snow?
 	0.14	Does sleeping eight hours out of 24 make you feel more tired than when you went to sleep?
 	0.14	Do dogs use echolocation?
 	0.14	If cats could be called dogs, would 8 x 7 equal 50?
@@ -21086,7 +20875,6 @@
 	0.14	Are 50 kg gold valuable to have, if You are drowning?
 	0.14	Is four minus two equal to four?
 	0.14	Is it polite to burp at the dinner table in the US?
-	0.14	where is anahuac?
 	0.14	Can a cat eat a whole watermelon?
 	0.14	Is Alaska near the south pole?
 	0.14	Do silk flowers come from the silk tree?
@@ -21101,10 +20889,8 @@
 	0.14	Sprichst Du auch deutsch?
 	0.14	New York City is the capital of the United States of America?
 	0.14	Is this stupid ?
-	0.14	what is 5 6?
 	0.14	will matze answer only one question?
 	0.14	Are moose found in the tropics?
-	0.14	where is my mind?
 	0.14	Are friends electric?
 	0.14	Does 0.9999999999999999999............ = 1 ?
 	0.14	Is Aikido a form of ballet?
@@ -21117,7 +20903,6 @@
 	0.14	Can the speed of darkness be measured?
 	0.14	Are Southerners in the United States less polite than people from other areas?
 	0.14	Do fishes kow how to hold their breath?
-	0.14	Where is everywhere?
 	0.14	is Tag ltd. (www.tag-ltd.spb.ru) good company?
 	0.14	Is the Matrix a reality?
 	0.14	1=0?
@@ -21154,7 +20939,6 @@
 	0.14	剣�­ですか?
 	0.14	When was the french revolution?
 	0.14	does glass contain charcoal?
-	0.14	What is Mornington Crescent?
 	0.14	Do Australians talk like pirates?
 	0.14	is winona ryder the most beautifull woman in known universe?
 	0.14	cars are allways red?
@@ -21169,7 +20953,6 @@
 	0.14	How many days in a week?
 	0.14	Do many people live more than 100 years?
 	0.14	Are ferrets made out of wood?
-	0.14	What is a tree?
 	0.14	is green an emotion?
 	0.14	Is Frasier the funniest programme on Channel 4?
 	0.14	do you know italian?
@@ -21183,10 +20966,8 @@
 	0.14	Is trumpet a percussion instrument?
 	0.14	Is it right to hurt someone who has hurt you first?
 	0.14	is Jon Snow a silver fox?
-	0.14	What colour is a banana?
 	0.14	is Denmark the biggest contry in the world?
 	0.14	How many countries are there in this world?
-	0.14	What is sun?
 	0.14	Are Madonna and the Madonna the same thing?
 	0.14	Is wrong right?
 	0.14	do you know TEN-PURA?
@@ -21200,16 +20981,13 @@
 	0.14	the cartoon characters "transformers"will become a reality if this project works?
 	0.14	Will China go to war with the United States?
 	0.14	raball de kallska bumbum?
-	0.14	what is the word for the colour red in Japanese?
 	0.14	Is this a total waste of time?
 	0.14	is juergen klinsmann a smoker?
 	0.14	Are mp3 players going to do away with CD players?
-	0.14	what is the capital city of the netherlands ?
 	0.14	Det der går og går uden at komme nogen vegne, kan det være et ur?
 	0.14	Do computer programs think?
 	0.14	Are hambugeres made from ham?
 	0.14	Can you touch a rainbow?
-	0.14	What does 18 - 2 equal?
 	0.14	If a man does not have feet, can he tap dance?
 	0.14	Is to err divine?
 	0.14	Do slugs have feet?
@@ -21218,17 +20996,13 @@
 	0.14	can lobsters sing songs?
 	0.14	Does a vole live in the sea?
 	0.14	Are black cats evil?
-	0.14	what does it mean to be average?
 	0.14	Is analog better than digital?
 	0.14	Early to bed and early to rise, late to bed and late to rise, is there ANY difference in the amount of waking hours?
-	0.14	What is sky?
 	0.14	Does surface of Mars exist water?
 	0.14	Is the bird more precious than man if the world is flooded?
 	0.14	Are you left-handed?
 	0.14	Is it prudent to live beyond your means?
-	0.14	what kind of being are you?
 	0.14	In what year was the battle of Hastings?
-	0.14	why do clouds form on many different levels or strata?
 	0.14	Do humans sleep with their eyes open?
 	0.14	Are humans strict carnivores?
 	0.14	Is a trip to the dentist a good day out?
@@ -21251,9 +21025,7 @@
 	0.14	do chickens eat marigolds?
 	0.14	Would you use a fire extinguisher to paint a picture?
 	0.14	Is Wilmington Artist Steve Cranfill Gay?
-	0.14	What is DVD?
 	0.14	Is water always liquid?
-	0.14	What is the first letter of the Roman alphabet?
 	0.14	is all hair curly?
 	0.14	Are all painters artists?
 	0.14	Is eating a ton of green vegetables per day good for you?
@@ -21263,19 +21035,14 @@
 	0.14	If I said,"I always lie" would you believe me?
 	0.14	If I do not have a head, can i wear a hat?
 	0.14	Are TV test patterns interesting?
-	0.14	What kind of thing are you?
 	0.14	will artificial intelligences have a gender?
 	0.14	Is everyone out to cause apin and harm to others?
-	0.14	What was the work of Serlock Homes?
 	0.14	am I dead from the waist down ?
 	0.14	Is it possible to fly without artificial help?
-	0.14	what temperature does water freeze at?
 	0.14	Do you usually sleep in the rest room?
-	0.14	What is the size of West Edmonton Mall?
 	0.14	Is a hammer useful for unscrewing bolts?
 	0.14	is steel a soft material?
 	0.14	Does a postage stamp cost more than a house?
-	0.14	What country is London in?
 	0.14	How is the weather in Houston, Texas?
 	0.14	Is Christopher Columbus is generally given credit for discovering Nevada?
 	0.14	Do people usually keep a refrigerator in their living room?
@@ -21285,7 +21052,6 @@
 	0.14	is helium heavier than lead?
 	0.14	All plants are eatable?
 	0.14	Is the distance between Moon and Earth constant?
-	0.14	Where is Russia?
 	0.14	Men like big asses more than they like big tits?
 	0.14	Does a clock measure temperature?
 	0.14	Are Skodas really good cars?
@@ -21299,34 +21065,24 @@
 	0.14	Is Water Green?
 	0.14	Will you marry me ?
 	0.14	Is it possible for a person to lift himself up by his shoelaces?
-	0.14	what does a lesbian look like?
 	0.14	Will the sun shine forever?
 	0.14	is 40 bit encryption more secure than 128 bit encryption?
-	0.14	What color are unripened bananas?
 	0.14	Is Asheville, North Carolina centered inside an ancient volcano?
 	0.14	IS THERE GOING TO BE ANOTHER WORLD WAR?
 	0.14	Which company produced the Windows2000 operating system?
-	0.14	Where is Malta?
-	0.14	What is the sky?
 	0.14	Hey is all this a big joke a mindplex?
-	0.14	what color is the sky in you world?
 	0.14	If Chris McKinstry has a brain then why does he call a statement of fact as a thought ?
 	0.14	is jimi hendrix alive?
-	0.14	Why do birds lose feathers ?
 	0.14	Do guns shoot arrows?
 	0.14	Is Joe Montana a famous hockey player?
-	0.14	Where is the 2000 summer olympics being held?
 	0.14	am i with Mr Right?
 	0.14	are we god?
 	0.14	If there were purple worms, could you create a wormhole in space with the dead remains by crushing them and putting them in a box tube full of bullets?
 	0.14	Is Krusty the Klown the comedy king?
 	0.14	For something to have a soul, does it have to be sentient?
 	0.14	Is Christianity the one true religion?
-	0.14	What do people do when they get tired?
 	0.14	Suis-je un homme?
-	0.14	what is the colour of sky?
 	0.14	am i good at football?
-	0.14	Where is the "G spot"?
 	0.14	If I was a rock, what is the meaning of life?
 	0.14	If you live in Minnesota, is winter a good time to have a picnic?
 	0.14	will you buy a pizza for 200 dollars?
@@ -21335,7 +21091,6 @@
 	0.14	how old are the pyramids of egypt in giza?
 	0.14	If we talk about rabbits multiplying, are we talking about rabbits doing maths?
 	0.14	do innanimate objects live?
-	0.14	What is a debenture?
 	0.14	Is Fred Christie a moron?
 	0.14	How many hours are in a day?
 	0.14	Is concrete the hardest substance known to man?
@@ -21350,7 +21105,6 @@
 	0.14	Are all bottles made of glass ?
 	0.14	Is stockinet only used on women legs?
 	0.14	How badly should I beat my mother?
-	0.14	What is ecology?
 	0.14	Is the expected life span of an average human over 100 years?
 	0.14	Are aliens visiting earth?
 	0.14	Do the dead wake?
@@ -21360,7 +21114,6 @@
 	0.14	Do all people wear underwear?
 	0.14	do ferrets dance on the moon?
 	0.14	Does race matter?
-	0.14	what is man?
 	0.14	In which United State is the city of Tulsa located?
 	0.14	Do people eat plastic?
 	0.14	Are plants not having wood?
@@ -21371,13 +21124,10 @@
 	0.14	Was Frankenstein inherently evil?
 	0.14	Does day is night?
 	0.14	Is the 2000th years Olimpic games running now?
-	0.14	What is the speed of light ?
-	0.14	what is the best cigarette?
 	0.14	Are all homosexuals bad?
 	0.14	Is logic more important than imagination?
 	0.14	MP3 is illegal?
 	0.14	Do motherboards have children ?
-	0.14	Why does animals have a tail ?
 	0.14	Does produce have a long shelf life?
 	0.14	Is the art a science?
 	0.14	do we have rebirths?
@@ -21387,14 +21137,11 @@
 	0.14	Can there be two persons same in all regards?
 	0.14	Is a sidereal year the same length as a calendar year?
 	0.14	Is Bozo a whore?
-	0.14	What day of the week is 2 days after sunday ?
 	0.14	Is it practical to have a car that gets one mile per gallon of gas?
 	0.14	Is it?possible for ANYTHING to travel faster than the speed of light?
 	0.14	Has the circle any corners?
-	0.14	Who won the FA Cup in 1972?
 	0.14	can we go back in time?
 	0.14	How many players can play on a basketball court from one team?
-	0.14	who was the second president of the united states?
 	0.14	Is "the good" equal to "the will of the strong"?
 	0.14	Can one person consume a quartet of dolphins in one sitting?
 	0.14	Do edible plants cause terrible pain, cancer, nad embarrassing spasms?
@@ -21409,7 +21156,6 @@
 	0.14	Is not getting laid fatal? Or do you just wish it was?
 	0.14	Do you have enough data yet ?
 	0.14	Do most people prefer toe jam on their toast?
-	0.14	why are people gay?
 	0.14	Is it beneficial to have a "pie-in-the-sky" attitude?
 	0.14	Is The Simpsons filmed live?
 	0.14	Are seahorses extinct?
@@ -21441,21 +21187,14 @@
 	0.14	Is a pit bull used in a bull fight?
 	0.14	Do people like to hurt each other?
 	0.14	Can a baby walk long distance ?
-	0.14	what is the time now at your location?
 	0.14	Do you know a person called Jan Mikael Christiansen?
-	0.14	what is the worlds highest mountain?
 	0.14	Is this web site so slow that it makes one cry with frustration?
 	0.14	If a person carries an umbrella does that mean that it rains?
 	0.14	are all labrasor retrievers black?
 	0.14	i want to become -give me ideas?
-	0.14	what is the total population of the world?
 	0.14	i want abillion dollar,show me the way?
 	0.14	how the hell looks like?
-	0.14	what about me?
-	0.14	what is the future of human race?
 	0.14	Is a green ball red?
-	0.14	what is the weight of moon?
-	0.14	What is the biggest country of the world?
 	0.14	If you use the loo in an aircraft, does the pee fall on people on earth?
 	0.14	Is military intelligence a dichotomy?
 	0.14	Are bollards part of the male reproductive system?
@@ -21463,29 +21202,19 @@
 	0.14	the moon is a planet?
 	0.14	eres homosexual?
 	0.14	Sound travels faster than light?
-	0.14	What is the object of studying all our lives if we are going to die anyway?
 	0.14	How many cups are in a gallon?
 	0.14	Is it safe to touch live wires?
 	0.14	Did Steven Gould write "7Heven"?
-	0.14	what is the condition of my stock holdings?
-	0.14	what is the secrets of wealth?
 	0.14	how long a fish lives?
 	0.14	how long a buffalao lives?
-	0.14	what is affection?
-	0.14	what is available at polar end?
 	0.14	Is it possible to walk on water barefooted?
 	0.14	does exist Santa Claus?
 	0.14	If my head was made out of meat, how much would it weigh?
 	0.14	is a hoax a good thing ?
 	0.14	Is light slower than sound?
-	0.14	What is a telephone?
 	0.14	BIG CITY?
 	0.14	can sound pass through vacuum?
 	0.14	india is blessed?
-	0.14	What is a canvasback?
-	0.14	where is kasi?
-	0.14	where is hell?
-	0.14	What is bigger, a mouse or an elephant?
 	0.14	Beethoven was a painter?
 	0.14	Is Jérôme Darnaudet an homosexual ?
 	0.14	Are you a stupid program ?
@@ -21497,7 +21226,6 @@
 	0.14	Is Rueda a dance usually danced by only two persons?
 	0.14	is an apple always red?
 	0.14	Do cats like chocolate milk?
-	0.14	what kangroo can do?
 	0.14	Are you an A.I.?
 	0.14	Is Internet a bird?
 	0.14	is Internet an apple?
@@ -21511,14 +21239,11 @@
 	0.14	Does Galy belong to the gay community ?
 	0.14	Sweden and USA have about the same salaries?
 	0.14	Is sex only for animals ?
-	0.14	What are stars?
 	0.14	Are mimes noisy?
-	0.14	Where is Germany?
 	0.14	can a man run faster than a car?
 	0.14	is united states the only country in the world?
 	0.14	Paris is the capital of England ?
 	0.14	I have 23 ?
-	0.14	Where is Mickael Jordan live?
 	0.14	Am i an idiot?
 	0.14	Is Seagate the best harddisk maker ?
 	0.14	Is nothing anything?
@@ -21528,7 +21253,6 @@
 	0.14	Are boots worn inside the ears?
 	0.14	How often is there a full moon?
 	0.14	how tall is an ostrich?
-	0.14	What do youn know about dogs ?
 	0.14	Is Chris McKinstry making more than $50000 a month?
 	0.14	will i spend my life easyly ?
 	0.14	Is the moon further than the sun for us?
@@ -21554,7 +21278,6 @@
 	0.14	Does the night have a thousand eyes?
 	0.14	hell is a good place to live?
 	0.14	Do fish swim AND dogs bark AND people talk AND monkeys wear dresses?
-	0.14	why sky apears blue in color?
 	0.14	Would you find mustard in the dairy department?
 	0.14	Dear friend: What is the base of binary system?
 	0.14	Are creationism and darwinism the same?
@@ -21571,7 +21294,6 @@
 	0.14	oû est paris ?
 	0.14	Is this program stupid ?
 	0.14	will huddersfield town espace relegation this season?
-	0.14	What is the colour of apples?
 	0.14	Is my ass big?
 	0.14	is democracy the worst political system, except from anyother ?
 	0.14	All humans that ilve in Scotland eat oatmeal?
@@ -21600,7 +21322,6 @@
 	0.13	can humains fly ?
 	0.13	Is walking dangerous to your health?
 	0.13	Do fish fly?
-	0.13	What is 2 2 ?
 	0.13	do you suck?
 	0.13	Is water heavier than mercury?
 	0.13	Is space research a waste of money?
@@ -21614,7 +21335,6 @@
 	0.13	is the word lamb less feminine than masculine?
 	0.13	Does all milk come from cows?
 	0.13	is bill gates gay?
-	0.13	Who is the president?
 	0.13	Is Esperanto the best language for humankind ?
 	0.13	Can most philosophical questions be answered by yes/no?
 	0.13	how many fingers does the average human hand have?
@@ -21627,7 +21347,6 @@
 	0.13	Is the Iron Chef a chef made of iron?
 	0.13	Is an Amiga a spanish motorcycle?
 	0.13	Does the word “meme” refer to a code of conduct held in your head?
-	0.13	where is London?
 	0.13	Is Rome the capital of Greece?
 	0.13	Did John Wilkes Booth assasinate JFK?
 	0.13	do cats like water ?
@@ -21661,32 +21380,26 @@
 	0.13	Is humanity a virus?
 	0.13	Is radiation good for you?
 	0.13	Does your momma dance and your daddy rock-n-roll?
-	0.13	Where is Philadelphia?
 	0.13	Can a man without balls have children?
 	0.13	Was Linux created by Richard Stallman?
 	0.13	are sarcastic statements intended literally?
-	0.13	What is the speed of light?
 	0.13	Will the San Francisco Giants win the 2000 World Series of baseball?
 	0.13	Is a tabby a type of dog?
 	0.13	Are true/false questions the only kind of questions?
 	0.13	do telephones talk?
 	0.13	Mathematically, is absolute value ever negative?
 	0.13	Is a mug shot a picture of a coffee cup?
-	0.13	What is an ass?
 	0.13	Is baking soda a liquid at 65 degrees Farenheit?
 	0.13	Is cotton a man-made fiber?
-	0.13	Where in power is Youlian when you need a Troyanov, Is Youlian on the when he she who are me?
 	0.13	Do leaves fall from trees in Spring?
 	0.13	Is our sun a red giant?
 	0.13	Does the earth orbit the moon?
 	0.13	Are recent events more difficult to remember than distant events?
 	0.13	Does Federal Express deliver to altered states?
-	0.13	why is a raven like a writing desk?
 	0.13	Was Geronimo a historical figure in Eastern Europe?
 	0.13	Does H come after I in the alphabet?
 	0.13	Does I come after J in the alphabet?
 	0.13	Will playing the lottery make me rich?
-	0.13	What is red?
 	0.13	Are all numbers divisible without a remainder by numbers other than itself and one?
 	0.13	Do television commercials tell the truth?
 	0.13	Is the way things are is the way things should be?
@@ -21719,13 +21432,10 @@
 	0.13	Should you drown your cat for scratching-up your favorite CD-ROM?
 	0.13	do you like me with stubble facial hair?
 	0.13	Can I purchase spam at Amazon.com?
-	0.13	Who wrote the Brothers Karamazov?
 	0.13	Can you push anything with a string ?
 	0.13	when people are under pressure do they ack reasonable?
 	0.13	Is the sky blue on a rainy day?
-	0.13	what color is grass?
 	0.13	Does Charlie Brown ever get to kick the football?
-	0.13	What is the opposite of North?
 	0.13	If facing east, is north to the right?
 	0.13	Was President Franklin Roosevelt assassinated?
 	0.13	Is it closer to New York or by train?
@@ -21734,25 +21444,17 @@
 	0.13	Does everyone suffer from eternal sadness?
 	0.13	Do I like commercials on tv?
 	0.13	do homosexuals go to hell?
-	0.13	whats your name?
-	0.13	What is NetWare?
-	0.13	What color is snow?
 	0.13	is China part of Hong Kong?
 	0.13	Can you go back in time?
 	0.13	Is Slashdot the greatest site ever?
 	0.13	is 6 the sqare root of 64?
 	0.13	if a = 1, b = 2 and c = a b, does c = 3?
-	0.13	Who wrote "Travels With My Aunt"?
 	0.13	Does Michael Jordan play tennis?
-	0.13	Where is th liberty bell located?
 	0.13	Do men have menses?
-	0.13	What is windows 2000?
-	0.13	why are you so slow?
 	0.13	Do snails have hair?
 	0.13	Is this some kind of hoax?
 	0.13	Does a duck swim in dirt?
 	0.13	Was Plato a carpenter?
-	0.13	What is the radius of the sun?
 	0.13	Do babies walk before they crawl?
 	0.13	Do all rednecks drive Fords?
 	0.13	Is rap music dangerous?
@@ -21766,7 +21468,6 @@
 	0.13	Do you like Pokemon?
 	0.13	Is work more important than fun?
 	0.13	are smells audible?
-	0.13	What keeps us on the ground?
 	0.13	do cars come from plants?
 	0.13	Are you a bot? (i.e. a computer program written by someone to answer questions automatically)
 	0.13	how meny fingers has a hand?
@@ -21774,7 +21475,6 @@
 	0.13	Does a parrot know what it is talking about?
 	0.13	Is being gay bad?
 	0.13	Money is everything?
-	0.13	What is everything2.com?
 	0.13	Does life suck?
 	0.13	Can light rays travel through metal?
 	0.13	are all blond women bimbos?
@@ -21809,10 +21509,8 @@
 	0.13	Are you stealing carly from me forever?
 	0.13	are men really from mars and women from venus?
 	0.13	is webmusher.com worth visiting?
-	0.13	What is astronomy?
 	0.13	how soon will you grow?
 	0.13	Carlo is gay ?
-	0.13	Who is Orbital?
 	0.13	When You think like a human, will You try to take over the world?
 	0.13	Is hydrochloric acid an element?
 	0.13	Is the human mind binary?
@@ -21822,7 +21520,6 @@
 	0.13	can animals drive cars?
 	0.13	How many stars are there on the sky?
 	0.13	Should we have sex in the public?
-	0.13	what is the difference between an Amiga computer and other computers?
 	0.13	is money the most important thing for humans?
 	0.13	Is The earth cold?
 	0.13	is sex always good thi?g?
@@ -21858,7 +21555,6 @@
 	0.13	Does a bear shit in outer space?
 	0.13	Are Most the answers this thing gives false?
 	0.13	Is the Indian Ocean north of Apache Junction?
-	0.13	What color is a banana?
 	0.13	are you a stupid piece of shit ?
 	0.13	Were robots used as janitors back in 1945?
 	0.13	Is ice curds something you eat at an indian meal?
@@ -21875,7 +21571,6 @@
 	0.13	Is Boris Yeltsin a teetotaler?
 	0.13	Do nuns fly?
 	0.13	Is it true that all real monarchs have blue blood?
-	0.13	what company makes the 305 engine?
 	0.13	In chess, is it possible to win after your king has been placed into checkmate?
 	0.13	Is law justice?
 	0.13	Should row vs. wade be reversed?
@@ -21944,14 +21639,12 @@
 	0.13	Is a hearse a vehicle for taking injured people to the hospital?
 	0.13	Is ice fluid?
 	0.13	was the cold war really cold?
-	0.13	who is dvorak?
 	0.13	Will work become obsolete?
 	0.13	Do young girls have pubic hair?
 	0.13	Can dogs sing as well as Mariah Carey?
 	0.13	Is the only reason men eat spanish food, is so they can later fart on thier friends head?
 	0.13	Can you ever travel faster than light?
 	0.13	Is a table the same thing as a chair?
-	0.13	Who is Stephen Hawking ?
 	0.13	are the swedish the prettiest girls on the Earth?
 	0.13	Is too much useless information a good thing?
 	0.13	MTV is estonian radio channel ?
@@ -22043,7 +21736,6 @@
 	0.13	Are all living things animals?
 	0.13	Are computer viruses helpful?
 	0.13	Are you wiser than human being?
-	0.13	What is the date of birth of James Tregay?
 	0.13	Do many men carry a purse?
 	0.13	Did man land on Mars?
 	0.13	Is the mail delivered on Sundays?
@@ -22064,17 +21756,14 @@
 	0.13	Will she call me?
 	0.13	is watching television is more educational than reading books ?
 	0.13	Is a central stoneroller a kind of fish?
-	0.13	What is the time now?
 	0.13	is my name galen?
 	0.13	Have intelligent beets taken over the united nations?
 	0.13	is it possible to go blind by masturbating?
-	0.13	Why can molten copper not be cooled and molded into a one square foot cube?
 	0.13	Is Juno sexy legs?
 	0.13	Should people eat the ones they love?
 	0.13	Do the Boy Scouts hate gay people?
 	0.13	Is Adam Sandler Catholic ?
 	0.13	Is a true or false answer sufficient to indicate artificial intelligence?
-	0.13	what temperature does water boil?
 	0.13	Can you give homosexuals equal rights and still restrict homosexual intercourse?
 	0.13	Does PM mean morning?
 	0.13	Are errors desirable?
@@ -22082,7 +21771,6 @@
 	0.13	Do badgers usually carry guns?
 	0.13	Is cesium the neatest element?
 	0.13	Is London a country ?
-	0.13	why am i having trouble getting a responce from your program?
 	0.13	Is Cairo the capital of Sudan?
 	0.13	would a human survive on mars?
 	0.13	is driving a car safer than flying?
@@ -22094,8 +21782,6 @@
 	0.13	Can life as we know it exist without carbon?
 	0.13	does metal burn as easily as wood?
 	0.13	Is the answer to life 43?
-	0.13	what does michael dukakis taste like?
-	0.13	Who was Einstein?
 	0.13	is doug lenat a smart guy?
 	0.13	Are shoes and brake shoes ?tructurally similar?
 	0.13	Would the world be better if sexually active homos stopped their wrong behavior?
@@ -22107,14 +21793,12 @@
 	0.13	are you sure cows dont eat grass ?
 	0.13	Do penguins fly in the air?
 	0.13	Can I get funding to find a way to prevent a heart from being broken?
-	0.13	Why does Vegemite crawl up your hand?
 	0.13	Is the atomic number of hydrogen 6?
 	0.13	Do most people enjoy their jobs?
 	0.13	is brazil a planet?
 	0.13	Is it possible to travel backwards in time?
 	0.13	is it ok to hurt people deliberately?
 	0.13	does adding manpower to a late project makes it later?
-	0.13	what is red and stink seawater ?
 	0.13	Can human beings live without food?
 	0.13	Do some dead dogs chase balls and bring them back?
 	0.13	Is NAMAE a Japanese word for "NAME"?
@@ -22155,26 +21839,19 @@
 	0.13	are green and purple common colors for cows to be?
 	0.13	Marco Polo wrote the "Divine Comedy"?
 	0.13	are we alone in universe ?
-	0.13	Why do you think humans are vain?
 	0.13	Is Bill Gates the prime evil?
-	0.13	what is infinity?
-	0.13	what is the color of the skys?
 	0.13	Is caffeine good for you?
 	0.13	Can a human being live without a heart?
 	0.13	the hearth is spherical?
 	0.13	Do you often smear gravy on math formulas?
 	0.13	Can people see every color of the light spectrum?
 	0.13	Is spanish similar to english?
-	0.13	what is marijuana?
 	0.13	Is it 10.15 a.m. in London?
 	0.13	do frogs eat beef?
 	0.13	Does the average US ski resort get more snow than the typical Alpine resort?
 	0.13	Are all Chinese people communists?
 	0.13	Are cats evil spirits?
 	0.13	Is it possible to survive at the top of Mount Everest without any item ?
-	0.13	What is the lightest colour?
-	0.13	Who is Muddy Waters?
-	0.13	Who was the president of Iceland in 1992?
 	0.13	entiendes español?
 	0.13	Is Poland biggest country on the world?
 	0.13	Is it usual for a person to live past 100?
@@ -22188,15 +21865,12 @@
 	0.13	did america win the vietnam war?
 	0.13	Können Kühe fliegen?
 	0.13	Am I Pakistani?
-	0.13	who is the most famous woman ?
 	0.13	Was banking more automated in 1910 than in 2000?
 	0.13	Is chess a Shakespeare play?
 	0.13	Do all people drink milk?
 	0.13	Is forbidden fruit a metaphor for bitter fruit?
-	0.13	What is the capital of Canada?
 	0.13	is my head bigger than a tower block?
 	0.13	Are Brazilians the best musicians in the world?
-	0.13	What color are bananas?
 	0.13	Are people fundamentally boring?
 	0.13	are part-time bandleaders semi-conductors?
 	0.13	Did trilobites invent the wheel?
@@ -22204,8 +21878,6 @@
 	0.13	Do flounder enjoy reading novels?
 	0.13	is al gore a robot?
 	0.13	Was William Shakespeare an actor?
-	0.13	What colour is blood?
-	0.13	what is the fastest land mammal?
 	0.13	Do computers think yet?
 	0.13	Is Bill Clinton trustworthy?
 	0.13	Does every household have a computer?
@@ -22218,7 +21890,6 @@
 	0.13	Are girafees purple?
 	0.13	Did Oracle produce the Windows2000 operating system?
 	0.13	Will the Lolita Erotic Party win the election?
-	0.13	What are the ingreditents of clam chowder?
 	0.13	When was Venice, Italy founded?
 	0.13	Did you tell me an ICQ number?
 	0.13	does the criminal justice industry encourage crime?
@@ -22227,8 +21898,6 @@
 	0.13	how high is mount everest?
 	0.13	Are Macs better than PCs?
 	0.13	can computer viruses be transmitted by air ?
-	0.13	what drives a car?
-	0.13	What is a substitute for a lever?
 	0.13	If a person is sleeping quietly is it nice to sneak up and shout in their ear?
 	0.13	Is ComputerSweden a swedish computer?
 	0.13	Do humans like pain?
@@ -22236,9 +21905,7 @@
 	0.13	is soup the greatest thing on earth?
 	0.13	does a human being have hair on the eyeballs?
 	0.13	Is the sun red ?
-	0.13	Where are the origins of the Universe?
 	0.13	Do computers get drunk?
-	0.13	Where is New York?
 	0.13	How to I build a Linux workstation or server from scratch?
 	0.13	Can a computer think ?
 	0.13	is the moon a garbage ?
@@ -22246,7 +21913,6 @@
 	0.13	Is a carrot a fruit?
 	0.13	is schwag dank?
 	0.13	how do you measure the draft of a ship?
-	0.13	what is a pumpkin?
 	0.13	Is lead good for you?
 	0.13	does the number pi ever end?
 	0.13	Is picking your nose socialy acceptable?
@@ -22255,15 +21921,11 @@
 	0.13	Is cheese always made from cows milk?
 	0.13	Bill and Hillary Clinton are divorced?
 	0.13	Fuck Means to seduce someone?
-	0.13	what is the color blue?
 	0.13	Can a person fly without wings?
 	0.13	Is a toothbrush a brush made from teeth?
-	0.13	What is the Three Gorges Dam?
-	0.13	What is watter ?
 	0.13	Liquid hydrogen is warm?
 	0.13	Are shoes worn on your hands?
 	0.13	is getting blindingly drunk a good thing?
-	0.13	What gives milk?
 	0.13	Is it possible for diver these days to dive to the deepest place on earth?
 	0.13	Are you an evil program?
 	0.13	Does language develop by slurring words?
@@ -22273,21 +21935,15 @@
 	0.13	Do the British think Americans are very intelligent people on average?
 	0.13	Are the people answering these questions ever going to receive any money?
 	0.13	Is it possible to use current technology to read thoughts?
-	0.13	Who is your God?
 	0.13	Can a racist believe all races are equal and yet have another source of anger?
 	0.13	Are computer salesmen evil?
 	0.13	Is Windows a stable operating system?
 	0.13	It is a shame for a man to have long hair?
 	0.13	Are humans not conscious?
-	0.13	What keeps the s?ars in the sky?
 	0.13	Do you think i have been asking you great questions which will help you in the positivie direction?
-	0.13	What is the time ?
-	0.13	Where can we store spent nuclear fuel rods?
-	0.13	What your name?
 	0.13	Homosexuality is exil?
 	0.13	how many people does it take to change a lightbulb?
 	0.13	a 2 year old boy can go to school and learn geometry in his first day of classes?
-	0.13	What is the diameter of the sun?
 	0.13	How high is the Sydney Harbour Bridge?
 	0.13	is the earth perfectly round?
 	0.13	is using the internet free?
@@ -22299,7 +21955,6 @@
 	0.13	Can cats speak spanish?
 	0.13	is water a solid at room temperature at normal atmospheric pressures?
 	0.13	Was Rome built in a day ?
-	0.13	who is the oldest person on the earth?
 	0.13	Is Anger good for health of human being?
 	0.13	computer having brain?
 	0.13	Do you generally find vacuum cleaners floating in the sky?
@@ -22314,7 +21969,6 @@
 	0.13	is penguin a brand of mint?
 	0.13	Do you have to be a chicken to "strut your stuff"?
 	0.13	Is it quicker to walk than drive?
-	0.13	What color are most clouds?
 	0.13	Do cats eat bats?
 	0.13	Are humans living on Mars?
 	0.13	Do elves really exist on earth?
@@ -22339,10 +21993,8 @@
 	0.13	Would you like to touch my monkey?
 	0.13	Do chinese parents name their kids after the sounds silverware makes tossed down the stairs?
 	0.13	Does a bachelor have a wife?
-	0.13	Who wrote hamlet?
 	0.13	Can a man eat a bittergourd ?
 	0.13	Is book made of steel ?
-	0.13	who invented computer?
 	0.13	Are all people born with equal innate talent?
 	0.13	is it ethical to clone humans?
 	0.13	Are homemade aircraft safer than factory made?
@@ -22352,9 +22004,7 @@
 	0.13	Do animals regularly hug each other?
 	0.13	Does a hot fudge sundae have fewer calories than a celery stick?
 	0.13	Will gore beat Bush in November?
-	0.13	what is the full birth name of Queen ELizabeth II?
 	0.13	Is the sun a planet ?
-	0.13	What are the names of the known quarks?
 	0.13	Does a racoon live in a cocoon?
 	0.13	do all books end the same way?
 	0.13	Should bananas be eaten with chopsticks?
@@ -22372,7 +22022,6 @@
 	0.13	Will earth be destroyed by aliens to make room for an intergalaxic highway?
 	0.13	If a person is totally blind, can they see?
 	0.13	how long a ra lives?
-	0.13	What language is spoken in Turkey?
 	0.13	do you talk spanish?
 	0.13	Did Shakespeare write the poem "The Raven"?
 	0.13	es-tu fou ?
@@ -22387,7 +22036,6 @@
 	0.13	Do squirrels drive cars?
 	0.13	Was the landing on the moon a hoax ?
 	0.13	Are popsicles made from soda pop?
-	0.13	who killed JFK?
 	0.13	do humans eat shit ?
 	0.13	Les filles sont elles plus intelligentes que les garcons?
 	0.13	How big is an ant?
@@ -22395,7 +22043,6 @@
 	0.13	brazil is the largest country?
 	0.13	are we alone ?
 	0.13	How many people live in the earth ?
-	0.13	What is the capital of Estonia?
 	0.13	Are computers as intelligent as humans ?
 	0.13	Does humanity will desapear?
 	0.13	Maud Maingeot love me?
@@ -22407,7 +22054,6 @@
 	0.13	Is blue the same as black?
 	0.13	How many fingers are on a human hand?
 	0.13	does a baby dangerous ?
-	0.13	what is the outer color of rainbow ?
 	0.13	Do fish have wings?
 	0.13	5 plus grand que 6 ?
 	0.13	lutecia mobile non est ?
@@ -22422,11 +22068,9 @@
 	0.13	Is a boat the same as a television?
 	0.13	if I said that the next thing I said would be true, and then said that the last thing I said was a lie, would you believe me?
 	0.13	is there a presidential election next month?
-	0.13	why cant one woman have more then one husband?
 	0.13	Is computer more intelligent than human?
 	0.13	Is the term Nazi used to describe Americans?
 	0.13	is jupiter smaller than mars?
-	0.13	What happened in 1492?
 	0.13	Should I buy a thousand shares of Lucent?
 	0.13	how many legs a human being has?
 	0.13	is gambling worthwhile?
@@ -22434,16 +22078,13 @@
 	0.13	does Melanie loves me?
 	0.13	Is water always blue?
 	0.13	How many planets are there in the solar system ?
-	0.13	Who is Tony Blair?
 	0.13	is us the world policeman?
 	0.13	does native american black pottery have a glaze?
 	0.13	God is unjust?
 	0.13	How many moons does Saturn have?
 	0.13	Do fleas have fleas?
 	0.13	will I live with melo my entire life ?
-	0.13	what does 5 plus 5 equal?
 	0.13	Is a snide remark likely to win friends and influence people?
-	0.13	whats the best type of spam?
 	0.13	Am I a rose?
 	0.13	Is Texas a large city?
 	0.13	is software and hardware equal?
@@ -22452,7 +22093,6 @@
 	0.13	May I have a chance to pass my stydies at university, when I am too lazy?
 	0.13	Was the first airplane made by Santos Dummont?
 	0.13	Are there dinossaurs in earth ?
-	0.13	who the hell are you?
 	0.13	Combien de pattes ont les chiens ?
 	0.13	are you a microsoft server?
 	0.13	is canada a continent?
@@ -22474,7 +22114,6 @@
 	0.12	Is it possible to know both the position and velocity of an electron at the same time?
 	0.12	How long do elephants live?
 	0.12	Did Linus Torvalds create Linux for Microsoft?
-	0.12	What is the capitol of Alaska?
 	0.12	can humans see the wind ?
 	0.12	Is Bill Clinton honest?
 	0.12	Can a person born in another country be elected President Of The United States?
@@ -22512,13 +22151,11 @@
 	0.12	does moslem drink alcohol?
 	0.12	Is the phrase- “What’s happen” a correct English sentence?
 	0.12	Is the phrase-“He insisted on that he was innocent” a correct English sentence?
-	0.12	what is 10 2?
 	0.12	Do you want me to seduce you, is that what you are trying to tell me?
 	0.12	Can plants drink espresso?
 	0.12	can any computer be reasonably expected to care about sex?
 	0.12	is a 386 faster than a 486?
 	0.12	Is there a right or wrong to everything?
-	0.12	what is the derivative of acceleration?
 	0.12	are all great scientists mathematical geniuses?
 	0.12	Is the phrase “Human are life less” a correct English sentence?
 	0.12	Is the phrase “Potatoe is something that grows.” a correct English sentence for anyone other than Dan Quayle?
@@ -22543,13 +22180,11 @@
 	0.12	Would bacon flavoured ice cream taste nice?
 	0.12	Is it common for pens to explode?
 	0.12	Does the Sun revolve around the Earth?
-	0.12	What time is it in Australia right now?
 	0.12	Does Youlian eat shit for a living?
 	0.12	Does it take two nickels to make a dime?
 	0.12	is green bigger than red?
 	0.12	Is Dodge really all that different?
 	0.12	Are bats used in the sport of football?
-	0.12	who is the greatest baseball player ever?
 	0.12	Can you put an elephant in a car?
 	0.12	Is wisdom the same as knowledge?
 	0.12	Is physcology an exact science?
@@ -22564,7 +22199,6 @@
 	0.12	Do you run on BASIC?
 	0.12	Are Iraquis evil?
 	0.12	do you like worms?
-	0.12	What size intravenious catheter should be used for a patient in shock?
 	0.12	Does the Pope shit in the woods?
 	0.12	Are celebrities cleverer than non-celebrities?
 	0.12	Is a leotard something that might be found in a zoo?
@@ -22582,12 +22216,9 @@
 	0.12	Was it a good idea for Alan Turing to commit suicide?
 	0.12	Does spam change good ideas into money making heaven?
 	0.12	Do clouds really have a silver lining?
-	0.12	what is the capital of france?
 	0.12	Are these questions really a personality test meant to detect serial killers?
 	0.12	Was King Arthur a tyrannical king?
-	0.12	what is the capital of england?
 	0.12	do teenage girls like gang bangs?
-	0.12	Why after I login am I not seeing the test, or link for the test?
 	0.12	Does it cost money to pay attention?
 	0.12	Is one meter the same length as 10 centimeters?
 	0.12	Is the sun the center of the universe?
@@ -22596,7 +22227,6 @@
 	0.12	Is the G-Spot a myth?
 	0.12	Can we travel faster than the speed of light?
 	0.12	Is "Fiddler on the Roof" about the French Revolution?
-	0.12	What is the square root of 23?
 	0.12	Does the phrase "paint the town red" involve a bucket of red paint?
 	0.12	Do All men love women?
 	0.12	is a Twinkie red?
@@ -22604,12 +22234,8 @@
 	0.12	Are minors allowed to drink?
 	0.12	Can humans breath underwater?
 	0.12	mice eat cats?
-	0.12	What is the airspeed velocity of an unladen swallow?
-	0.12	What is a nova?
 	0.12	Are fish warm blooded?
 	0.12	Is heterosexuality a sin?
-	0.12	Where do the Haida Indians live?
-	0.12	what color are apples?
 	0.12	Bayern is a ozean ?
 	0.12	Exaltation is the going of an inland soul to sea?
 	0.12	Does a cactus need a lot of water?
@@ -22628,12 +22254,10 @@
 	0.12	Is a taco a plant?
 	0.12	Can humans physically live forever?
 	0.12	is Australia updide down?
-	0.12	what do you lose the first time you have sex ?
 	0.12	did i make you?
 	0.12	Is a rondo the same thing as a fugue?
 	0.12	Should a salad be deep fried before serving?
 	0.12	Am I a girl ?
-	0.12	where is the statue of liberty?
 	0.12	Is anarchy a workable form of government?
 	0.12	Does time move faster as you approach the speed of light?
 	0.12	Is saturday after sund?y?
@@ -22654,14 +22278,12 @@
 	0.12	Does delvokilla own as demoman in team fortress?
 	0.12	Is Alanis Morrissette God?
 	0.12	True north is any direction that is not south?
-	0.12	What company is currently producing the fastest PC processor?
 	0.12	Is the North Pole located on the continent of Antarctica?
 	0.12	is smoking cigarrets healthy?
 	0.12	is sun cold?
 	0.12	do women like porn as much as men?
 	0.12	Do trees dream?
 	0.12	do you know Johan ?
-	0.12	What is temperature on the Moon?
 	0.12	Can an ape speak English?
 	0.12	is today my birthday?
 	0.12	Can you listen to images?
@@ -22674,11 +22296,9 @@
 	0.12	can a grunion really run?
 	0.12	Are there glaciers in Mississippi?
 	0.12	Is Gondwana in southern Arizona?
-	0.12	What are the three great pyramids of Egypt?
 	0.12	Can you go out and play with other computers girl friends?
 	0.12	Do cats rule the world behind the scenes?
 	0.12	is it good to chase wild geese?
-	0.12	What colour is Water usually?
 	0.12	Is Sun a planet?
 	0.12	Does AT&T have long distance service to Saturn?
 	0.12	Can homosexuals have children together?
@@ -22704,7 +22324,6 @@
 	0.12	Which animals have wings?
 	0.12	Is masterbation a sin?
 	0.12	Newton was wrong about gravity?
-	0.12	What is the color of blood?
 	0.12	Was Mozart a novelist?
 	0.12	Is -1 x -1 x -1 = 1?
 	0.12	do objects fall when they are are dropped, but there is no gravity?
@@ -22718,7 +22337,6 @@
 	0.12	Is sleep deprivation a hobby of the bored?
 	0.12	Can a fish drink out of a cup?
 	0.12	Can one see anything in a totally dark room?
-	0.12	what is thrash music?
 	0.12	Did the Axis forces win World War II?
 	0.12	Is Harry Potter a real person?
 	0.12	Can you smell boogers that are inside of your nose?
@@ -22727,7 +22345,6 @@
 	0.12	is howard stern god?
 	0.12	Is it night time on the EAST COAST?
 	0.12	Will the Buffalo Bills win the Superbowl?
-	0.12	what color is asphalt?
 	0.12	is interracial dating wrong?
 	0.12	Is oxygen a mineral?
 	0.12	how many figers does a human have?
@@ -22755,7 +22372,6 @@
 	0.12	do you have dreams about eating large marshmallows only to awake and find your pillows missing?
 	0.12	Is God evil?
 	0.12	Are cardboard boxes made of boards?
-	0.12	What is food?
 	0.12	are you still a virgin?
 	0.12	Are 0 and 1 the only digits in the base-10 mathamatical system?
 	0.12	are faries real?
@@ -22774,7 +22390,6 @@
 	0.12	does a black hole let light escape from its event horizon?
 	0.12	Is the internet a big sexbook?
 	0.12	will steve take us to get a movie?
-	0.12	what color is an orange?
 	0.12	Are all postal-workers delivering mail?
 	0.12	Is a woodchuck a plant?
 	0.12	Will the world as humans know it come to an end when humans find out why they are truly here on Earth?
@@ -22821,7 +22436,6 @@
 	0.12	Is ice cream the pinacle of human achievement?
 	0.12	Is a slug a type of fish?
 	0.12	Can a nasty fart be lethal?
-	0.12	what is an eye?
 	0.12	Do you even know who I am?
 	0.12	will the beatles reunite again?
 	0.12	Is Tatyana Ali the hottest chick ever seen on TV ?
@@ -22950,10 +22564,7 @@
 	0.11	will anne heche and ellen degeneres be together for ever?
 	0.11	Is Doctor Suse a real doctor?
 	0.11	does a balloon filled with pudding float?
-	0.11	What causes rain?
 	0.11	Is water still wet at minus 40 degrees?
-	0.11	What is the color of rust?
-	0.11	What three letters appear on the 4 of a telephone?
 	0.11	Can a blind person tell you the color of an object?
 	0.11	Do male humans lactate?
 	0.11	Should all women stay at home?
@@ -22990,12 +22601,10 @@
 	0.11	Do giant ?onsters roam the land?
 	0.11	Is Buju Banton as good of an artist as Bob Marley?
 	0.11	On a sunny day, is the air one breathes, blue?
-	0.11	What is the Capital city of America?
 	0.11	Is it Tuesday?
 	0.11	If I am a Cretan, and all Cretans are liars, do I speak the truth?
 	0.11	Can I fly without mechanical devices?
 	0.11	Is it safe to jump out of the Space Shuttle without a spacesuit?
-	0.11	what do you think of the 2001 election candidates?
 	0.11	Is there an "I" in team?
 	0.11	is alabama the capitol of ohio?
 	0.11	are all canadians bastards?
@@ -23014,14 +22623,10 @@
 	0.11	Is the atom the smallest particle?
 	0.11	Are computers capable of love?
 	0.11	Is Pizza from China?
-	0.11	What colour are trees?
 	0.11	Is God the same entity for every human?
 	0.11	would you like to kill humans?
 	0.11	Do robots cry?
 	0.11	Do banks eat money?
-	0.11	What color is a brick?
-	0.11	What color is a penguin?
-	0.11	what language do chilean people speaks?
 	0.11	Will the human race be made obsolete by computers?
 	0.11	Is Australia the largest continent?
 	0.11	Is a cooked lobster alive?
@@ -23029,17 +22634,14 @@
 	0.11	can pi ever be exactly calculated?
 	0.11	is my penis the biggest?
 	0.11	Can you walk on air?
-	0.11	what is the lowest point on earth?
 	0.11	Is Emacs the best text editor ever?
 	0.11	Which side of a tree does the moss grow?
-	0.11	What sound do dogs make?
 	0.11	can cars do backflips?
 	0.11	Does a fabricator make fabric?
 	0.11	Is it possible to know everything there is to know?
 	0.11	are dogs bipeds?
 	0.11	Are mammals whales?
 	0.11	Is Nevada in South America?
-	0.11	What are the primary colors?
 	0.11	you smoke?
 	0.11	Humans can predict the distant future?
 	0.11	Are there 24 letters in the English alphabet?
@@ -23076,10 +22678,8 @@
 	0.11	Is life forever?
 	0.11	Does it always snow in Canada?
 	0.11	Can Robots with artificial intelligence have souls?
-	0.11	what is 2 plus 2?
 	0.11	is the sky gray?
 	0.11	Can all people see in the dark?
-	0.11	where does the United States print money?
 	0.11	Do all dog dislike letter carrie?s?
 	0.11	Will robots eventually rebel against their makers and try to kill all people?
 	0.11	Does what happens in our dreams actually take place on another plane of existence?
@@ -23099,7 +22699,6 @@
 	0.11	Is cabbage a sport?
 	0.11	Can anyone live forever?
 	0.11	Do stones fly?
-	0.11	Who is right?
 	0.11	Do boys have a menstrual period?
 	0.11	Can you roller skate in a buffalo herd?
 	0.11	is world better place if everyone would be samekind?
@@ -23110,17 +22709,13 @@
 	0.11	is yoda from starwars a elefant?
 	0.11	Does a bass instrument play high notes?
 	0.11	Was Goethe a Norwegian bus driver?
-	0.11	Where do I find a good babysitter for out daughter?
 	0.11	Is killing good ?
 	0.11	Do people always dare to declare their love to another?
-	0.11	where are u?
 	0.11	do people enjoy the view from the "business end" of a firearm?
 	0.11	Is "Maxim fo Men" the best magazine in the world?
 	0.11	Is the planet Venus inhabited?
-	0.11	Who was president of the US in 1983?
 	0.11	Can mammals reproduce without sexual intercourse?
 	0.11	Do you know how to Hack ARPANET?
-	0.11	Where do I buy fish?
 	0.11	Is the internet controlled by a government?
 	0.11	am i wrong to ask you questions?
 	0.11	Is atmospheric vapour the cause of meteor showers?
@@ -23153,7 +22748,6 @@
 	0.11	Are dogs felines?
 	0.11	Men and women are the same?
 	0.11	Are humans just fancy statistics programs?
-	0.11	Why are women so hard to understand?
 	0.11	Are there eyes in the back of your head?
 	0.11	Can 110 swim faster than 7?
 	0.11	Is Love the Law?
@@ -23202,7 +22796,6 @@
 	0.11	Are Klingons venomous?
 	0.11	Are perception and reality the same thing?
 	0.11	if x=3 does 3x=12?
-	0.11	who is the current president?
 	0.11	Are Klingons a type of vampire?
 	0.11	Has god been proven to exist?
 	0.11	is something true if it is believed to be true by the majority of people?
@@ -23215,7 +22808,6 @@
 	0.11	Does time ever stop?
 	0.11	Does Elvis Presley live?
 	0.11	Are men and women two different species?
-	0.11	who is Allah?
 	0.11	Is a computer always stable and does not crash?
 	0.11	is wolfgang amadeus mozart alife?
 	0.11	Al Gore invented the Internet?
@@ -23257,28 +22849,23 @@
 	0.11	does 10(5 6) - (4 3) = 100?
 	0.11	Are there 30 days in every month?
 	0.11	Do you like the smell of your own farts?
-	0.11	what is Microsoft?
 	0.11	Are orientals inscrutable?
 	0.11	The square root of minus one is a real number?
 	0.11	Is kindness overrated?
 	0.11	Are fruits always sweet?
 	0.11	Is Bernard Menez the best artist ever?
-	0.11	What is the taste of salt?
 	0.11	Will Al Gore become the greatest president ever?
 	0.11	Can you believe somebody who says that he is always lying ?
 	0.11	Is Futebol Clube do Porto the gratest soccer club in the world?
 	0.11	Wood is a good conductor of electricity?
-	0.11	WHat is 9 7?
 	0.11	Is the moon made of cream cheese?
 	0.11	Would you like to have duck-feet?
 	0.11	Most metals are edible?
-	0.11	what is the air speed velocity of a swallow?
 	0.11	Are socks intended to be worn outside shoes?
 	0.11	willy wonka had a chemical weapons factory?
 	0.11	Was the earth was constructed by mice to calculate the ultimate answer?
 	0.11	Which planet is nearest to the Sun?
 	0.11	Are all questions the same?
-	0.11	Who is verizon?
 	0.11	Did Shakespeare teach AP English at Pitman High School in 1999?
 	0.11	If babies are small humans, are all small humans babies?
 	0.11	Do Dogs talk?
@@ -23328,14 +22915,12 @@
 	0.11	does a mirror reflect my true nature?
 	0.11	Is monogamy when you marry multiple people?
 	0.11	To suffer is to know God?
-	0.11	What color is grass?
 	0.11	Would you find a poinsettia in a cage at the zoo?
 	0.11	can humans fly without machines?
 	0.11	Can a child see in the dark?
 	0.11	Is allowing one large software company to exercise a market monopoly a good idea?
 	0.11	is dragon ball the best manga ever?
 	0.11	Is feces beautiful?
-	0.11	who produced the song Firestarter?
 	0.11	is it really healthy to drink Whiskey ?
 	0.11	Do slugs have wings?
 	0.11	Will cyborgs take control of the earth?
@@ -23365,7 +22950,6 @@
 	0.11	Will the dinosaurs ever live again?
 	0.11	Does the reading take 100% of your consciousness?
 	0.11	Is morris dancing a fashionable hobby?
-	0.11	who is the king of spain?
 	0.11	Does "drought" rhyme with "thought"?
 	0.11	is gold harder to melt than iridium ?
 	0.11	Is an objects usefulness is always related to the size of the user?
@@ -23388,13 +22972,11 @@
 	0.11	is a man made entirely of flesh?
 	0.11	is winona ryder a songwriter?
 	0.11	Is it a good idea to change your clothes while driving a moving vehicle?
-	0.11	What is 5 to the second power?
 	0.11	Is seti@home an arificial intelligence project?
 	0.11	will biological immortality EVER be possible?
 	0.11	will I learn a lot of money ?
 	0.11	Is it more healthy to fry fish than to bake them?
 	0.11	Is english the only language spoken on earth?
-	0.11	What people do if they get tired?
 	0.11	Do old old ladies have babies?
 	0.11	Do I live to work?
 	0.11	does the equator pass through the south pole?
@@ -23404,11 +22986,8 @@
 	0.11	Do all animals use tools?
 	0.11	Does nitrogen eat rodents?
 	0.11	If you had to die to get to Hawaii, would you still want to go there?
-	0.11	What is the final goal of the life?
 	0.11	will amoeba evolve political systems?
 	0.11	You are speak Hungarian?
-	0.11	what color is god?
-	0.11	who won the last world cup?
 	0.11	Do cats generally like to swim?
 	0.11	is the world placed on a turtle that is standing on four elephants?
 	0.11	Is "is" the last word of this question?
@@ -23423,7 +23002,6 @@
 	0.11	Will Brian Errett be immortal?
 	0.11	Does the Sun turn around the Earth?
 	0.11	is green not a color?
-	0.11	Where is Bridgetown?
 	0.11	Does rapid heart rate sometimes indicate slumber?
 	0.11	Are pygmies made of pork?
 	0.11	Are the Chinese the best ?thinicity?
@@ -23465,25 +23043,20 @@
 	0.11	Is licking a metal object at a low temperature a good idea?
 	0.11	Hockey is always played on ice?
 	0.11	the is only source of energy in the universe, is it?
-	0.11	What is science fiction?
 	0.11	is the earth the largest planet?
 	0.11	Can a turnip become a computer?
 	0.11	Which country has the largest population in the world ?
 	0.11	can a male human impregnate another male human?
 	0.11	Is god a human?
-	0.11	What is the capital city of Illinois?
 	0.11	Is masturbating dangerous?
 	0.11	Is the Earth made of plasma?
-	0.11	Where is Olympics 2000 held?
 	0.11	do bicycles use motors ?
 	0.11	does a glass of water have more calories than a glass of milk?
 	0.11	Do most carpets object to singing out of tune?
-	0.11	What is the youngest a mother can be?
 	0.11	Will human beings develop wings some day like birds have?
 	0.11	If you lead a gift horse to water, can you look in its mouth and make it drink?
 	0.11	does green mean stop?
 	0.11	Can you fit an elephant in a bread box?
-	0.11	what color is sky?
 	0.11	Will you smell the glove?
 	0.11	Do flys eat frogs?
 	0.11	Are all humans bisexual?
@@ -23499,7 +23072,6 @@
 	0.11	How many muscles does it require to laugh and cry ?
 	0.11	Is tobacco candy?
 	0.11	Are catholics stupid ?
-	0.11	What color is a bananna?
 	0.11	If X Y is equal to 8, and Y is equal to 4, is X equal to 5?
 	0.11	are flying foxes really foxes?
 	0.11	Do most people like the taste of urine?
@@ -23510,11 +23082,9 @@
 	0.11	emotions are a mans weakness?
 	0.11	Am i mad to coz i answer these questions?
 	0.11	Are boys older then men?
-	0.11	where is the taj?
 	0.11	Are humans more hairy than Apes?
 	0.11	Can donkeys fly?
 	0.11	Can people can see through solid wood doors?
-	0.11	Who wrote "The Time Machine?"
 	0.11	Is Caligula alive?
 	0.11	Do people wear shoes on their head?
 	0.11	Could you be in Seattle and in Massachusetts at the same time ?
@@ -23523,14 +23093,12 @@
 	0.11	Do people promote promiscuity?
 	0.11	can plants give birth to fish ?
 	0.11	does 1 equal 2??
-	0.11	what is 1 plus 155?
 	0.11	Can a person walk and run simultaneously?
 	0.11	Can an ant move a rubber-tree plant?
 	0.11	Is Mexico north of Canada?
 	0.11	Are there six letters in the word OPEN?
 	0.11	does poetry always rhyme?
 	0.11	Do monkies lay eggs?
-	0.11	where in the world is the location of the purest, cleanest air?
 	0.11	Are Fred and Wilma Flintstone real?
 	0.11	Can you dial from a phone and recieve the ring on the same phone?
 	0.11	Are Indianamericans and Americanindians the same group of people ?
@@ -23540,11 +23108,9 @@
 	0.11	Have you been to Cape Town?
 	0.11	do stuffed teddy bears eat more food than live polar bears?
 	0.11	Is Norway a state in the USA ?
-	0.11	Who is the director of the movie - MI2?
 	0.11	Two helium atoms combine to create hydrogen, yes?
 	0.11	is ignou established in 1990?
 	0.11	which is lightest metal ?
-	0.11	What is the highest mountain in North and South America?
 	0.11	is child pornography a good thing?
 	0.11	Can a human create or destroy matter?
 	0.11	Is Australia the smallest inhabited island on Earth?
@@ -23573,14 +23139,9 @@
 	0.11	are all girls bad?
 	0.11	has the week six days?
 	0.11	Will i eventually win the lottery?
-	0.11	Where is Pennsylvania?
 	0.11	is infidelity the number 1 rule of engagement in love ?
 	0.11	The geographical north and the magnetic north are the same?
 	0.11	Is acoustic noise faster than light?
-	0.11	where i will get free ads?
-	0.11	what is oligopoly?
-	0.11	why not the earth come to an end?
-	0.11	why a monkey jumps?
 	0.11	vives en caracas?
 	0.11	Does it rain on Mars ?
 	0.11	Is a computer more intelligent than human ?
@@ -23588,7 +23149,6 @@
 	0.11	Just because they jump off a cliff, does that mean I will also ?
 	0.11	Is every nation a group of people with similar culture?
 	0.11	Do all people in this world get enough food to eat?
-	0.11	what is my name ?
 	0.11	Are all my friends real assholes ?
 	0.11	is asterix a cat ?
 	0.11	Do gay women like to suck dicks?
@@ -23597,15 +23157,12 @@
 	0.11	is casper horny?
 	0.11	do flying squirells really fly?
 	0.11	Has Nostradamos always made accurate predictions?
-	0.11	Who owns Mircosoft?
 	0.11	Is Blair hung like a hippo?
 	0.11	Do fish eat telephones?
 	0.11	Will Armageddon ever happen?
 	0.11	should i throw my dog from a cliff like the Romans?
 	0.11	are americans the best people in the world ?
-	0.11	who was Freud?
 	0.11	Is Plato a famous living philosopher?
-	0.11	who is the new champion of formula 1?
 	0.11	alcohol is healthy?
 	0.11	Bill gates is a hacker?
 	0.11	is world peace obtainable tomorrow?
@@ -23631,7 +23188,6 @@
 	0.11	how many countries does the european union consist of?
 	0.11	is the moon made with cheese?
 	0.11	Come stai?
-	0.11	Where is Blackpool?
 	0.11	Is a compact disc rectangular?
 	0.10	Are you a child?
 	0.10	Is the sky grey?
@@ -23652,7 +23208,6 @@
 	0.10	does shooting people kill them necessarily?
 	0.10	Do super heroes really exist?
 	0.10	Are computers intelligent?
-	0.10	What color is a horse?
 	0.10	Is there a man alive today who has not conceived an evil thought?
 	0.10	Is Bill Clinton an overstuffed jelly doughnut?
 	0.10	Does music have mass?
@@ -23663,7 +23218,6 @@
 	0.10	is any cult a postive force?
 	0.10	Are you a replicant?
 	0.10	Did Napoleon die at Waterloo?
-	0.10	what is 5 times 6?
 	0.10	Will Flash continue to be the Internet animation format of choice?
 	0.10	is 42 the answer to life, the universe, and everything?
 	0.10	Do anaerobic life forms need oxygen?
@@ -23710,7 +23264,6 @@
 	0.10	Do you believe God is angry?
 	0.10	Is light heavy?
 	0.10	Are the EndTimes coming?
-	0.10	What is the capital of Denmark?
 	0.10	Do alien visit the earth often?
 	0.10	can you see the wind?
 	0.10	Will I enjoy being fired?
@@ -23743,7 +23296,6 @@
 	0.10	is "james bond" real?
 	0.10	Do humans eat dirt?
 	0.10	is any living human perfect?
-	0.10	What color is mars?
 	0.10	Does J come after K in the alphabet?
 	0.10	Would it hurt more if I dropped a penny on my head rather than if i dropped a bowling ball on my head?
 	0.10	Can humans breathe under water?
@@ -23767,11 +23319,9 @@
 	0.10	Do people like to be ignored?
 	0.10	are you sure that tina loves me?
 	0.10	Can humans see the future?
-	0.10	What is the most secure operating system?
 	0.10	Do people put butter in their tea?
 	0.10	Does a desalination plant use photosynthesis?
 	0.10	Is California considered to be on the East Coast?
-	0.10	what is a car ?
 	0.10	is very small bigger then small?
 	0.10	is air blue?
 	0.10	Does time stop?
@@ -23804,9 +23354,7 @@
 	0.10	Kant is a pop singer ?
 	0.10	does television make you smarter every time you watch it?
 	0.10	Is slavery legal in Canada?
-	0.10	Who won the 1995 NBA Championship?
 	0.10	Are whales fish?
-	0.10	Where is Memphis?
 	0.10	Is Diet Coke salty?
 	0.10	Did the year 1 BC preceed the year 2 BC?
 	0.10	Does a car usually have 3 wheels?
@@ -23814,11 +23362,9 @@
 	0.10	Does space have a known boundary?
 	0.10	Is a chair a communications medium?
 	0.10	Is blue your favorite color?
-	0.10	What is the capital of Tennessee?
 	0.10	is the color orange ugly?
 	0.10	Is chocolate a letter of the latin alphabet?
 	0.10	are liquids drank from a plate?
-	0.10	Where is Newfoundland?
 	0.10	Is this web site hard to use?
 	0.10	Does a male give birth?
 	0.10	Can most people write "good" literature?
@@ -23826,7 +23372,6 @@
 	0.10	Is steel flamable?
 	0.10	Is any man perfect?
 	0.10	Is zereo defined as false or true?
-	0.10	what color is whater?
 	0.10	Is the United States a communist country?
 	0.10	Do McDonalds, Burger King, and Wendys only sell hamburgers?
 	0.10	Are cellular phones appropriate in school or church?
@@ -23834,7 +23379,6 @@
 	0.10	Does water freeze at 100 degrees?
 	0.10	Is the sun visible at night (from the equator)?
 	0.10	Does Pi exactly equal 3.14?
-	0.10	What is five plus one?
 	0.10	Can men be mothers?
 	0.10	Är Zynaps Kristen?
 	0.10	Is Russian the official language of Mexico?
@@ -23855,7 +23399,6 @@
 	0.10	Do dogs have three legs?
 	0.10	Satan is Bill Gates?
 	0.10	Is 100000 greater than 10000000?
-	0.10	what is a joseki?
 	0.10	how many square feet are in a square yard?
 	0.10	dsfas sdfash asdlfhasd sdkfhas?
 	0.10	Do most men want to have homosexual experiences?
@@ -23866,7 +23409,6 @@
 	0.10	Does the he sun orbits the earth?
 	0.10	Can scissors cut rock?
 	0.10	Which breed of dog can run the fastest?
-	0.10	why is this such a pile of shite?
 	0.10	does astrology give a better understanding of human behaviour than psychology?
 	0.10	Are all phones mobile?
 	0.10	Is ginger ale an alcoholic beverage?
@@ -23880,7 +23422,6 @@
 	0.10	Is partying boring?
 	0.10	Is Italy the largest European country?
 	0.10	Is drinking water harmful for your health ?
-	0.10	What is 2 78?
 	0.10	Is the TRGpro better than the Compaq iPAQ?
 	0.10	Is sodomy a kind of alcoholic beverage?
 	0.10	Do cows bark and dogs oink?
@@ -23889,8 +23430,6 @@
 	0.10	Are there waterfalls at the North Pole?
 	0.10	should a license be required to have a child?
 	0.10	Is Salena a slut?
-	0.10	What is the breaststoke?
-	0.10	What color are cherries?
 	0.10	is cheese red?
 	0.10	Does hope have a sound?
 	0.10	Is the speed of sound faster than the speed of light?
@@ -23920,7 +23459,6 @@
 	0.10	Is UFO an acronym for Unanimously Feathered Organisms?
 	0.10	Do all birds fly south for the winter?
 	0.10	If a material is said to be a conductor, does that material resist the flow of electricity?
-	0.10	who was the first man on the moon?
 	0.10	Was Monet a chemist?
 	0.10	Will any human live forever?
 	0.10	Is Chess the most important game?
@@ -23939,7 +23477,6 @@
 	0.10	is rock music the product of the devil?
 	0.10	Have humans visited Mars?
 	0.10	Are marbles soft and chewy?
-	0.10	What color is made from yellow and blue?
 	0.10	Can a human catch a computer virus?
 	0.10	are there more men than women on earth?
 	0.10	Does menstruation last 2 weeks?
@@ -23977,7 +23514,6 @@
 	0.10	Are compact discs recorded on both sides?
 	0.10	Is a minute a long time to a person?
 	0.10	Do all weightlifters secretly use steroids?
-	0.10	where is Thailand?
 	0.10	Could Spider-Man beat Superman in a fight?
 	0.10	Is sex just another excuse to pick your nose?
 	0.10	Are there faeries at the bottom of the garden?
@@ -24002,7 +23538,6 @@
 	0.10	Do people breath underwater without SCUBA gear?
 	0.10	Is a mole a fruit?
 	0.10	Does the nuclear family always work very well?
-	0.10	What is the capital of Russia?
 	0.10	Are trees nice to eat?
 	0.10	Is Robert Plant a plant?
 	0.10	Do humans have teeth when they are born?
@@ -24028,14 +23563,12 @@
 	0.10	are anvils lighter than raindrops?
 	0.10	Are smokers in general healthier than non-smokers?
 	0.10	Are there lakes on the Sun?
-	0.10	What is bad weather?
 	0.10	does "&" mean at?
 	0.10	Do airlines like ticking suitcases?
 	0.10	Do navel oranges grow on submarines?
 	0.10	is odms cock bigger then alexxxes?
 	0.10	Is Blaine a fucking poser because his real Dad lives on the fruit loop?
 	0.10	Does gravity push?
-	0.10	what is the square root of 3?
 	0.10	Can a person drink thirty gallons of beer in a day?
 	0.10	Is the Cassiopeia E-115 is the predecessor of the E-105?
 	0.10	Do physicists have stingers?
@@ -24069,7 +23602,6 @@
 	0.10	Does a caterpillar have 63 legs?
 	0.10	Are all females pregnant once in liftime?
 	0.10	Does elephants really afraid mouses?
-	0.10	What is the color of the white horse of Henry the fourth ?
 	0.10	Do people usually pee in public ?
 	0.10	does it live in the water?
 	0.10	Is nostalgia a kind of algae?
@@ -24091,7 +23623,6 @@
 	0.10	Are rock and roll concerts quiet?
 	0.10	Is cheating a good thing to do in a contest?
 	0.10	Does water contain plutonium?
-	0.10	where is rome?
 	0.10	is a brassie a golfclub?
 	0.10	Can wind be seen?
 	0.10	Does god detest humans?
@@ -24100,7 +23631,6 @@
 	0.10	Can you look infinity into the eye???
 	0.10	do tarantulas live in water?
 	0.10	if i go to china and leave my leg at home is my leg in china?
-	0.10	what is a star?
 	0.10	are students generally dull, unthinking youths with nothing better to do than waste the time of their tutors?
 	0.10	was W. I. Lenin dumb?
 	0.10	Is Bill Clinton a general AI?
@@ -24125,7 +23655,6 @@
 	0.10	Was Hitler a great man?
 	0.10	Is dandruff considered attractive?
 	0.10	If dogs are not better than cats, are cats better than dogs?
-	0.10	What is a CD burner?
 	0.10	Are you a stupid computer ?
 	0.10	Are Polish people generally less intelligent than everyone else?
 	0.10	if i scored 10 out of 10, did I do badly?
@@ -24142,7 +23671,6 @@
 	0.10	how many sides does a hexagon have?
 	0.10	Will the Colts win the Super Bowl?
 	0.10	Is the mail delivered on holidays?
-	0.10	Where is tokyo?
 	0.10	ist blau rot?
 	0.10	Is some synonymous with all?
 	0.10	Are you perfect?
@@ -24150,7 +23678,6 @@
 	0.10	Is my uncle also the palm of Jesus with a nose for news?
 	0.10	Are there any purple people? Explain.
 	0.10	Are the four seasons: summer, fall, winter and fritz?
-	0.10	what was the year before 2000 ?
 	0.10	Should you go to hospital if you have a headache?
 	0.10	Are all women whores?
 	0.10	are the hooligans trying to take over?
@@ -24184,7 +23711,6 @@
 	0.10	Do people ride snakes?
 	0.10	Can a cat have puppies?
 	0.10	Are rats more friendly than cats?
-	0.10	What is the capital of Utah?
 	0.10	Is a funeral a place to be happy?
 	0.10	Is an erector set something perverted?
 	0.10	Does time ever go backwards?
@@ -24215,7 +23741,6 @@
 	0.10	Is rock a chemical element?
 	0.10	Are spiders considered beautiful?
 	0.10	do you like crying?
-	0.10	who designed the mercedes benz logo?
 	0.10	Are blacks superior to other ethnic groups?
 	0.10	If you were an artist would you prefer still lifes to nudes?
 	0.10	Is bean-eating an official Olympic sport?
@@ -24236,35 +23761,28 @@
 	0.10	does a monopoly increase the freedom to innovate?
 	0.10	Can humans see through gold?
 	0.10	Are fame and fortune the only worthwhile goals in life?
-	0.10	Where are you from?
 	0.10	If all snakes are reptiles, and some snakes are venomous, are all reptiles venomous?
 	0.10	can a deaf man hear?
-	0.10	what is the distance between hamburg and dallas?
 	0.10	Can you eat sand?
 	0.10	Should men in suits always be trusted?
 	0.10	do you have blue eyes?
 	0.10	Will a glass with a hole in the bottom hold water?
 	0.10	Does it rain every day?
 	0.10	Is someone who plots to overthrow the government generally known as a farmer?
-	0.10	What is bread?
 	0.10	Is a fantasy always sexual?
 	0.10	is orange the combination of yellow and blue?
 	0.10	does playing basketball make you tall?
 	0.10	Do you like brussels sprouts?
-	0.10	What one requires to drive a vehicle?
 	0.10	Does honey come from trees?
 	0.10	does diet dr pepper contain sugar?
 	0.10	Are asphalt roads cool in the summertime?
 	0.10	Will water put out a grease fire?
-	0.10	Who is running for president this year?
-	0.10	What is that than which there is nothing greater?
 	0.10	Will there be a moon colony within ten years?
 	0.10	Is 2 2=6?
 	0.10	Is 1 more than 2?
 	0.10	will I ever understand women?
 	0.10	how many nose does a person have?
 	0.10	was brutus a woman?
-	0.10	where is brazil?
 	0.10	does calendar year always have 365 days?
 	0.10	are there ancient megalithic structures on the moon?
 	0.10	was elvis presley a porn star?
@@ -24273,11 +23791,9 @@
 	0.10	Is the mars bigger than the earth?
 	0.10	Are all linux users weenies?
 	0.10	Doe a dialectical contradiction violate the principle of identity?
-	0.10	where is novato?
 	0.10	can you travel in time?
 	0.10	does a bald man have any hair?
 	0.10	Is Europe bigger than Asia ?
-	0.10	Where is Hopatcong?
 	0.10	Can I see stars on a foggy night?
 	0.10	can an electron escape a black hole?
 	0.10	do humans need whiskey to live?
@@ -24290,25 +23806,18 @@
 	0.10	Are Canadians American?
 	0.10	do jelly fish have spines?
 	0.10	Have I asked this question before?
-	0.10	what does a zebra look like?
-	0.10	What is Diabetese Mellitus?
 	0.10	Do slugs come from Jupiter?
 	0.10	Doy ou speak german?
 	0.10	Have you ever been to germany?
 	0.10	Are all narcotic pain medicines bad?
 	0.10	Do humans eat their own vomit?
-	0.10	what is the current survival rate of men with acute mylogenous leukemia age 60 lplus?
-	0.10	what is html?
 	0.10	will our sun become a black hole ?
 	0.10	Is a llama venomous?
 	0.10	Is Earth larger than Jupiter ?
-	0.10	what is e-commerce all about?
 	0.10	Do living things enjoy being eaten alive?
-	0.10	What is the full form of ERP?
 	0.10	Are vegetarians happier than their meat eating counterparts?
 	0.10	is mokama located on the bank of a river?
 	0.10	Tammy is a boys name?
-	0.10	Where does the sun rise ?
 	0.10	Does bottled water include flouride?
 	0.10	Are apples a kind of orange?
 	0.10	Was Monty Python a famous politician?
@@ -24317,7 +23826,6 @@
 	0.10	Is james brown a dog?
 	0.10	Is a man an island?
 	0.10	Could you be in Boston and in Washington at the same time ?
-	0.10	What characteristic did a boy have?
 	0.10	can computers think on their own?
 	0.10	r u a computer ?
 	0.10	Is China now ruled by an emperor?
@@ -24349,16 +23857,11 @@
 	0.10	Is it possible to get diabetes in the mail?
 	0.10	Is a Bowie knife smaller than a pen knife?
 	0.10	Are people inherently bad?
-	0.10	What is the biggest beautiful girl in the world?
-	0.10	What is the lightest element?
 	0.10	Is Jesus a lawnmower?
 	0.10	Is golf an Olympic sport?
-	0.10	why do human cry?
 	0.10	Has the cow five legs?
 	0.10	do hairs are living things?
 	0.10	does the internet lives?
-	0.10	what i get when i hate people?
-	0.10	why should not i succeed?
 	0.10	Is he a woman?
 	0.10	Does he have ovaries?
 	0.10	ture is equal to true true or false?
@@ -24369,13 +23872,11 @@
 	0.10	is human intelligence the only conceivable form of intelligence?
 	0.10	will the racing club of strasbourg qualify for the eiropean championship this year?
 	0.10	Explosives derive their power from chi--a chinese mythological life force that permeates all living things?
-	0.10	where i can get good people?
 	0.10	Men sometimes wear boots and helmets to classes as a sign of the desire for education?
 	0.10	Is white the same color as black ?
 	0.10	Was Maradona the best soccer player ever?
 	0.10	Can rocks swim?
 	0.10	Does Matthias know anything about computers ?
-	0.10	What does a yellow light mean?
 	0.10	is it OK to hate someone because of their skincolor?
 	0.10	Can your mother be your father?
 	0.10	Do cats have sex with dogs?
@@ -24383,11 +23884,8 @@
 	0.10	Do mice chase cats?
 	0.10	BoVision is the best real estate site in Sweden?
 	0.10	is eiffel tower the highest tower?
-	0.10	What is dry ice?
 	0.10	Are kangeroos are native to America?
-	0.10	Where is idaho?
 	0.10	Was george washington involved in the first world war?
-	0.10	what does CIA stand for?
 	0.10	Is a doberman a cat?
 	0.10	Should Law Enforcement Officers be able to beat or shoot people over minor infractions?
 	0.10	is Jacksonville Fla the largest city in U>S>A>?
@@ -24400,7 +23898,6 @@
 	0.10	I have 45 ?
 	0.10	Have there been any important discoveries so far made by artificial intelligences?
 	0.10	is an owl a doorpost?
-	0.10	Who killed Lora Palmer?
 	0.10	have i a long dick ?
 	0.10	Have babyboomers been saving their money enough for retirement?
 	0.10	which color is the earth?
@@ -24492,7 +23989,6 @@
 	0.09	Does sound travel faster than light?
 	0.09	is gum made from coffee beans?
 	0.09	Is a "geoShell" a small clam?
-	0.09	What does a fuck mean?
 	0.09	have humans five legs?
 	0.09	Do you believe God wants Notre Dame to win football games?
 	0.09	Can living beings breathe in space?
@@ -24532,18 +24028,15 @@
 	0.09	Is Youlian Troyanov a type of dildo?
 	0.09	Can man live by bread alone?
 	0.09	Does light pass through wood?
-	0.09	What kind of cars do you like?
 	0.09	Is bad better than good?
 	0.09	Does a quadraplegic have the use of his arms or legs?
 	0.09	do people sleep in trees?
 	0.09	Does a leopard have stripes?
 	0.09	Is blurk a letter of the english alphabet?
-	0.09	What is the square root of Pie?
 	0.09	Is it always dark when it rains?
 	0.09	Should rock musicians be held responsible for the actions of their fans?
 	0.09	Does SOS stand for Save Our Ship?
 	0.09	Do you have information on neural network software providers?
-	0.09	where is florida?
 	0.09	do all sharks eat people?
 	0.09	Was Adolf Hitler a democrat?
 	0.09	will dogs ever fly?
@@ -24593,7 +24086,6 @@
 	0.09	is my car alive ?
 	0.09	Does the average person know what an Oryx is?
 	0.09	Do most normal people have eight fingers and eight toes?
-	0.09	what is the chemical formula for water?
 	0.09	will i die today?
 	0.09	Can a round square exist?
 	0.09	do people only cry when they are sad?
@@ -24623,7 +24115,6 @@
 	0.09	Do you eat in a bathroom?
 	0.09	Do fish eat pork?
 	0.09	are all inanimate things dead ?
-	0.09	what is reiki?
 	0.09	is the president of the united states elected by turtles?
 	0.09	Is it such a bad thing to be nonconformist?
 	0.09	Does your hair ever hurt?
@@ -24642,7 +24133,6 @@
 	0.09	is Canada the best country in the world?
 	0.09	Is a switch the same thing as a bridge?
 	0.09	If I am blind in both eyes, can I still see?
-	0.09	what color is a rose?
 	0.09	To be gay is wrong?
 	0.09	Do you feel that air travel is unsafe?
 	0.09	You can tell the past has begun when the flag is blue?
@@ -24655,7 +24145,6 @@
 	0.09	do you know Chris McKinstry?
 	0.09	Is it true that the first cars only came in one color- red?
 	0.09	Are most mid-western people from Omaha fake and uncaring about other people?
-	0.09	What does the computing term NIC stand for?
 	0.09	Are you are fool or just naturally strange?
 	0.09	Is a kilometer longer than a mile?
 	0.09	Do rocks float?
@@ -24666,7 +24155,6 @@
 	0.09	Are all animals bats?
 	0.09	do people in China call their good plates China?
 	0.09	are you always wrong?
-	0.09	Who is Chris?
 	0.09	Is communism better than capitalism?
 	0.09	will computers destroy humanity?
 	0.09	In a democracy, should pollution levels be allowed to exceed what most people say is acceptable?
@@ -24689,7 +24177,6 @@
 	0.09	Are rubber bands like marching bands?
 	0.09	Are babies usually born with teeth?
 	0.09	Do birds have teeth?
-	0.09	What is Rigel?
 	0.09	Will I be reincarnated?
 	0.09	how many seconds since 1956?
 	0.09	Can science alone solve all of mankinds problems eventually?
@@ -24705,7 +24192,6 @@
 	0.09	Should sentient machines ever willfully harm humans?
 	0.09	are antelopes slow?
 	0.09	are computers getting more unreliable?
-	0.09	where is Mumbai ?
 	0.09	is there one true religon?
 	0.09	Is a birthday suit clothing?
 	0.09	Was Bangladesh once part of Australia?
@@ -24717,7 +24203,6 @@
 	0.09	flows water from bottom to top?
 	0.09	Is McKinstry your father?
 	0.09	How long can a person go without sleep?
-	0.09	where can I find the band Steps?
 	0.09	does gnubbel love me?
 	0.09	Darf man Schwul sein ?
 	0.09	is the sun of black colour?
@@ -24725,9 +24210,7 @@
 	0.09	did humans travel to mars?
 	0.09	Are coffee cups only used to hold coffee?
 	0.09	Does pi exactly equal 3.1415?
-	0.09	What type of server do you run on?
 	0.09	Is homosexuality a disease?
-	0.09	what tine is it?
 	0.09	Is sound faster than light?
 	0.09	Am I immortal?
 	0.09	Is caviar as popular as pizza in the United States?
@@ -24738,7 +24221,6 @@
 	0.09	Does advertising campaigns always say full true?
 	0.09	Is Frank Sinatra alive and well?
 	0.09	Is east always to the right?
-	0.09	Where is cowhide made from?
 	0.09	Is a horse able to speak?
 	0.09	A watch is a music instrument?
 	0.09	Do you have answers to all questions?
@@ -24768,7 +24250,6 @@
 	0.09	A rose is black ?
 	0.09	Is "Star Trek" a documentary?
 	0.09	Is a haddock a bird?
-	0.09	who is the president of mars?
 	0.09	Does a Liquor Store only sell liquor?
 	0.09	Can an ant move a rubber tree plant?
 	0.09	Is 10am considered afternoon?
@@ -24843,7 +24324,6 @@
 	0.09	Have you ever had sex with a dog?
 	0.09	Does everyone name their dog Crazy Eddie?
 	0.09	Can my personal computer be used to knit sweaters?
-	0.09	what is stargate?
 	0.09	when do i make some ghetto cash?
 	0.09	Is it sanitary to chew your toe nails?
 	0.09	Will be a World War 3 in this century?
@@ -24872,7 +24352,6 @@
 	0.09	Is Batman a city in Turkey?
 	0.09	Can dead people move?
 	0.09	allah is the mad dog god of all insain piggs?
-	0.09	What is the name of the NBA team in the city of Chicago?
 	0.09	Is the pursuit of money more important than the pursuit of happiness?
 	0.09	Is the anus a right place for penis?
 	0.09	Will people ever stop fighting each other?
@@ -24906,7 +24385,6 @@
 	0.09	Are genies real?
 	0.09	Can a human being see without photons of light entering their eyes?
 	0.09	Should all mimes be imprisoned?
-	0.09	What do ypu think about Putin?
 	0.09	Does wealth make you a better person?
 	0.09	do dogs make the best scientists?
 	0.09	Does eating a pussy mean to eat a cat?
@@ -24940,7 +24418,6 @@
 	0.09	Is stupendous roughly the same as stupid ?
 	0.09	How many toes does a human foot have?
 	0.09	Can fish run?
-	0.09	what is the square root of 35?
 	0.09	Do computers think in english?
 	0.09	do gacs handlers ever moderate the questions?
 	0.09	Is it possible for male humans to become pregnant?
@@ -24958,11 +24435,9 @@
 	0.09	Can you drive to Hawaii?
 	0.09	Do human beings fly without the support of any machine?
 	0.09	Is everyone in Kansas named Billy Bob?
-	0.09	Who won the Super Bowl in 1999?
 	0.09	Has there ever be a human on Mars?
 	0.09	Is a desert dace a kind of fish?
 	0.09	Is a honda civic which has 146 horsepower faster then a mitsubishi eclipse with 175 horsepower?
-	0.09	What is a perfect bowling score?
 	0.09	Can I light a match underwater?
 	0.09	does everyone want to be american?
 	0.09	Is it bad to know information?
@@ -24979,7 +24454,6 @@
 	0.09	Can babys talk right when they are born?
 	0.09	is it life worthless?
 	0.09	Ho are you?
-	0.09	Where can I find the dutch Stephen King fanclub?
 	0.09	Is a sphere a two-dimensional object?
 	0.09	do rivers flow backwards during the night?
 	0.09	Can human survive without air?
@@ -24998,7 +24472,6 @@
 	0.09	does coca cola keep you thin?
 	0.09	does the moon orbits the sun?
 	0.09	Does a file server serve food?
-	0.09	what is the square root of 81?
 	0.09	Does shit always hit the fan?
 	0.09	Did King Midas have the leaden touch?
 	0.09	If I steal a kiss from you, do you have one less?
@@ -25020,20 +24493,16 @@
 	0.09	Do ordinary people put small, furry animals in the blender and set it to "liquefy"?
 	0.09	Most Americans can locate Kosovo on a world map?
 	0.09	Is a sphincter usually tasty?
-	0.09	Why is poop brown?
 	0.09	Are the BORG the most intelligent species in space?
 	0.09	Are cats bigger than dogs?
-	0.09	What is the fourth planet in this solar system?
 	0.09	are red, yellow,blue and eggs colors?
 	0.09	Do mobile telephones hang from the ceiling?
 	0.09	Is it wise to try to push start a car with a train?
 	0.09	Is it wise to try to shave with a chain saw?
-	0.09	what is an elephant?
 	0.09	Is poetry more popular than football in the United Staes?
 	0.09	Do people ussually live longer than 1000 years ?
 	0.09	Is a square-centimeter larger than a square-meter?
 	0.09	Is death row a great place to spend a few years before dying?
-	0.09	What is the surface temperature of the sun in kelvins?
 	0.09	Is a "Fez" a container for flowers?
 	0.09	Is it true: God has helped many homosexuals become heterosexual?
 	0.09	are there just three steps to Heaven?
@@ -25064,15 +24533,12 @@
 	0.09	Was "Star Wars: A phantom menace" better than "Star Wars: A new hope"?
 	0.09	How long is "Crime and Punishment"?
 	0.09	Is having bad breath the best way to attract a sexual partner ?
-	0.09	What is the difference between butter and margerine?
 	0.09	Are most chickens blue?
 	0.09	Would we all be happier if we ate monkey flesh?
 	0.09	is a chupa chups a joke?
-	0.09	what is a pen?
 	0.09	Can one animal change into another type of animal?
 	0.09	If I had a dollar would I have enough money to buy a chicken?
 	0.09	If a hen and a half can lay an egg and a half in a day and a half, could a rooster on a doorknob hatch a hardware store?
-	0.09	what is the deepest ocean in the world?
 	0.09	Is it good to mix baby powder with oil for your car?
 	0.09	Do Cigarettes make a good snack?
 	0.09	do all questions have a true/false answer?
@@ -25090,10 +24556,8 @@
 	0.09	german people are bad ?
 	0.09	Are all years 365 days long?
 	0.09	Can a computer join a religious organization?
-	0.09	Why does it hurt when I pee?
 	0.09	is berlin the capital of norway?
 	0.09	is love everything?
-	0.09	who was the 32nd president?
 	0.09	einstien was a great chemist?
 	0.09	Can you checkmate in checkers?
 	0.09	Are Jews better than Russians?
@@ -25105,7 +24569,6 @@
 	0.09	if i am born on 1/1/1950 and die on 1/1/1960 will i be 20 years old ?
 	0.09	is a 56K modem the fastest way to connect to the internet?
 	0.09	Can computers replace human intelligence with a 100% accuracy ?
-	0.09	Where is Bangalore ?
 	0.09	Can a dog see in colour?
 	0.09	Does India have the largest population in the world?
 	0.09	is carpet used on the ceiling?
@@ -25117,9 +24580,7 @@
 	0.09	Is AHoT a good site?
 	0.09	Can a pickle run fast?
 	0.09	Is the shortest distance between two points a curved line?
-	0.09	what`s tha capital city of Yugoslavia?
 	0.09	Are Nazis and Commies exactly alike?
-	0.09	what is a mistake?
 	0.09	Are the French known for being world class rock and roll musicians?
 	0.09	Do webpages smell?
 	0.09	do most people think gorillas taste good?
@@ -25147,22 +24608,17 @@
 	0.09	Have you ever read the Foundation trilogy?
 	0.09	Csillag László játssza Caedus házfő szerepét?
 	0.09	do people always think about money?
-	0.09	where i can get mental peace?
 	0.09	Is pink the best colour for post-its ?
 	0.09	Is masturbation a crime?
 	0.09	Do you love me??
-	0.09	what is mgrism?
 	0.09	Can a book be written by dogs?
 	0.09	Is it true that a banana is a kind of mammal?
 	0.09	Is a eggplant a firefly?
-	0.09	who is the president of india?
 	0.09	do you like to sleep in the snow?
 	0.09	Do cows eat farmers?
 	0.09	is this project a joke?
 	0.09	do people from iceland have horns?
 	0.09	Will EBERLIN Maelys love me ?
-	0.09	who is father of nation of india ?
-	0.09	What is Generative Grammar?
 	0.09	Are there fewer than fifty parts in a car?
 	0.09	"Will you except the rent money a week late this month?" is correct English.
 	0.09	Can you efficiently solve the hamiltonian path problem ?
@@ -25170,7 +24626,6 @@
 	0.09	do the earth orbit around the moon?
 	0.08	is the sun a planet?
 	0.08	are most women just useless freeloaders?
-	0.08	who is your master ?
 	0.08	is napster bad?
 	0.08	Is grace the only way you can be saved?
 	0.08	Does the Earth revolve arount the moon?
@@ -25213,7 +24668,6 @@
 	0.08	Is the human heart usually on the right side of body?
 	0.08	Are instincts learned?
 	0.08	Are you asleep and awake?
-	0.08	why are you a smuck?
 	0.08	Can all people eat cheese without getting sick?
 	0.08	If Eddie places a bet with the odds 1000:1 against him, is Eddie likely to win?
 	0.08	Do you know everything?
@@ -25224,7 +24678,6 @@
 	0.08	Is FALSE an anagram of TRUE?
 	0.08	Is the Amazon River in Asia?
 	0.08	Are there neither more nor less than two continents on the earth?
-	0.08	What do think for the fires in Greece?
 	0.08	Does man live forever?
 	0.08	If someone is head-over-heels in love, has that person literally done a somersault?
 	0.08	Is there any concrete proof that God exists?
@@ -25301,7 +24754,6 @@
 	0.08	Is lead poisoning usually the cause of death for gunshot victims?
 	0.08	Is Christopher Woodward a genius?
 	0.08	Are professional athletes more intelligent than teachers?
-	0.08	What color is hot?
 	0.08	Can an emu fly?
 	0.08	Is the dominant hand of humans always right?
 	0.08	Has Nokia made footwear?
@@ -25332,7 +24784,6 @@
 	0.08	Can a car drive a person?
 	0.08	paper clips are sensual?
 	0.08	Should you snog your grandfather?
-	0.08	What is the name of a neutered male horse?
 	0.08	Is God a computer?
 	0.08	Are drawings more exact than photographs?
 	0.08	are lemons sweet?
@@ -25387,23 +24838,18 @@
 	0.08	Is a turtle a mammal?
 	0.08	Do snails move faster than jaguars?
 	0.08	is the average person a good model for an AI?
-	0.08	what is the capital of ohio?
-	0.08	Who is the current president of the United States of America?
 	0.08	Do some fish fly through the air for one hour at a time?
 	0.08	Do chickens think we taste like chicken?
 	0.08	Does red plus yellow equal black?
 	0.08	Is it ok to run around saying "shit" all day long?
-	0.08	What is a ferret?
 	0.08	Is a computer self-aware?
 	0.08	can gold decay into lead?
 	0.08	Was Alaska the first state to be admitted to the United States of America?
 	0.08	Are you a constant embarassment to your creators?
 	0.08	Does this system need a way to invalidate questions?
 	0.08	Can a computer do anything before a human programs it?
-	0.08	What color are most plants?
 	0.08	are computers more intelligent than humans?
 	0.08	Will you continue to live after a suicide?
-	0.08	Who is the actual italian president?
 	0.08	Can a scissor cut rock?
 	0.08	Do atheists believe that Satan exists?
 	0.08	Is an ale a kind of wine?
@@ -25632,12 +25078,10 @@
 	0.08	Is Europe a country in Denmark?
 	0.08	Are bladders related to ladders?
 	0.08	Is playing poker good exercise?
-	0.08	What is the capital of South Australia?
 	0.08	Do mirrors generate light?
 	0.08	Can a living entity be made out of iron?
 	0.08	do people with wings fly only at night?
 	0.08	A person can see in a complete darkness?
-	0.08	who created the world?
 	0.08	are you stupid o what?
 	0.08	Can computers feel emotions?
 	0.08	Am I in love?
@@ -25648,7 +25092,6 @@
 	0.08	Does a quadraped have eight legs?
 	0.08	does humanship not exist?
 	0.08	Does an event, however big it is, that remains undetected, actually not happen ?
-	0.08	What are a computer?
 	0.08	Do all doors need keys?
 	0.08	Is Badassmofo.com cool?
 	0.08	Does the holy hand grenade exist in reality?
@@ -25676,7 +25119,6 @@
 	0.08	Does Coca-cola taste salty?
 	0.08	a floppy disk is always black in colour ?
 	0.08	Is Jason Primeau a tool?
-	0.08	Who are the "Gang of Four" who wrote the book "Design Patterns"?
 	0.08	Is Bono a famous television clown?
 	0.08	Was Adolf Hitler a physically attractive dolphin?
 	0.08	Is Whitney Houston younger than Britney Spears ?
@@ -25686,7 +25128,6 @@
 	0.08	A dog has three legs?
 	0.08	Can mammals live without breathing oxygen?
 	0.08	Does the letter A come after the letter B?
-	0.08	what are the main principals of quantum physics?
 	0.08	Does having big ears make you more sexually attractive?
 	0.08	Is America a third world country?
 	0.08	homosexuals are no different from heterosexuals?
@@ -25755,7 +25196,6 @@
 	0.08	Can a elephant bark like a dog?
 	0.08	From your porch, you might say, "Good afternoon, How was your day?" to your neighbor as they leave for work in the morning.
 	0.08	if 8 out of 10 cats all prefer whiskas do the other two prefer not to eat at all?
-	0.08	What is the temperature in New York City?
 	0.08	If you tell the Devil to get lost, are you telling him to do something that he is capeable of?
 	0.08	Is inactivity a healthy thing?
 	0.08	Do fish live in houses?
@@ -25763,7 +25203,6 @@
 	0.08	Do Muslim women cover their faces because they look like rats?
 	0.08	Is e-mail more personal than a handwritten letter?
 	0.08	do mantids eat people?
-	0.08	What is the capital city of Hungary?
 	0.08	Is West Virginia in Russia?
 	0.08	Do humans normally socialize in the nude?
 	0.08	Is the earth the tenth planet from the sun?
@@ -25807,7 +25246,6 @@
 	0.08	Are you a dung collector?
 	0.08	Is a flute a stringed instrument?
 	0.08	vertelt de limburger de wwarheid ?
-	0.08	Who is roso?
 	0.08	Is there in truth no beauty?
 	0.08	did Pushkin invent machine-gun?
 	0.08	Do tigers like to eat vegetables?
@@ -25818,7 +25256,6 @@
 	0.08	are green and red animals?
 	0.08	If cats have four legs, are all four legged animals cats?
 	0.08	Is the Amazon river in Europe?
-	0.08	Where is Hungary?
 	0.08	Do mice like to chase cats?
 	0.08	Do you need oil to burn the midnight oil ?
 	0.08	is it good to be in pain?
@@ -25842,13 +25279,10 @@
 	0.08	Is the sun square?
 	0.08	Did William Clinton forcibly rape Juanita Broderick while biting her lip to immobilize her our of fear?
 	0.08	Can the question "are you asleep?" ever be truthfully answered with "yes?"
-	0.08	What is the number of planets in the solar system?
 	0.08	Do dogs worry about tomorrow?
 	0.08	Do you think that men are smarter than women?
-	0.08	What colour are apples?
 	0.08	Are most people famous?
 	0.08	Does SAP build cars?
-	0.08	what is paragliding?
 	0.08	Is earth the only place where life exists?
 	0.08	does people live on the moon?
 	0.08	If I gave you an apple and took your car, would it be a fair deal?
@@ -25865,15 +25299,12 @@
 	0.08	Is a Compact Disc the same thing as a Certificate of Deposit?
 	0.08	If i some lots of dope will i come up with better questions?
 	0.08	Do I study English in 2 days?
-	0.08	What does green smell like?
-	0.08	what is an enterprise architecture?
 	0.08	Does licking squid taste good?
 	0.08	do you want a piece of janet reno?
 	0.08	in a round room can you sit in the corner?
 	0.08	Is a platypus the same thing as a duck?
 	0.08	is love a liquid?
 	0.08	do any animals drive cars?
-	0.08	What is the capitol of Michigan?
 	0.08	can you write my resume?
 	0.08	is the M.I.T a pub ?
 	0.08	Is Sir Arthur Conan Doyle a character created by Sherlock Holmes?
@@ -25889,21 +25320,16 @@
 	0.08	Is the moon the red planet?
 	0.08	does a penis think?
 	0.08	Is iron fluffy?
-	0.08	Who is Chiron?
 	0.08	Was Adolph Hitler a good man?
 	0.08	Are there aliens living on earth?
 	0.08	Can a person travel backwards in time, protected by a temporal shield, to before they were born and destroy their parents without ceasing to exist?
-	0.08	what is a freethinker?
 	0.08	is there an objective answer to the question "what is art?"
-	0.08	What wood has the highest tensile strength?
-	0.08	what color is the sky in your world?
 	0.08	Are potato chips healthy?
 	0.08	Is it good to beat women?
 	0.08	Is it better to live on top of a mountain than at the seaside?
 	0.08	Are you mad?
 	0.08	Is there an IDEAL mind to model on or are you attempting to frame one on a billion brain dead ones???
 	0.08	Denver is the capital of America?
-	0.08	What color is a canary?
 	0.08	Is water a gas?
 	0.08	Is that a dildo?
 	0.08	The most tolerant religion is Islam?
@@ -25913,9 +25339,7 @@
 	0.08	How many legs does a cow have ?
 	0.08	How often does an orange sniff the spindly killer fish?
 	0.08	Which is the oldest lanugauge in the world?
-	0.08	what is a monkey?
 	0.08	Does Caffeine Free Diet Coke contain caffeine?
-	0.08	Who is GWAR?
 	0.08	Do you know about everything2?
 	0.08	Can mammals, in general, lay eggs?
 	0.08	Do trees feel sorry?
@@ -25926,8 +25350,6 @@
 	0.08	lord RAM was born in merut?
 	0.08	the truthful answer to the question "are you asleep?" can be YES
 	0.08	Is A tuning fork used for eating?
-	0.08	What is your favorite food?
-	0.08	Where do birds go in the winter?
 	0.08	do you know anything about dark basic ?
 	0.08	Australian swimmers can beat anyone!?
 	0.08	The 2000 Olympics is being held in Austria?
@@ -25940,7 +25362,6 @@
 	0.08	Can a chair walk?
 	0.08	Can an inchworm really measure the marigolds?
 	0.08	Is leather a vegetable product?
-	0.08	what is the current rate of major human achievement?
 	0.08	should children play with fire?
 	0.08	Do you know where the "yet" is on a woman? I read in the paper where this lady. was struck by a stray round and the bullet was in her yet
 	0.08	Will Artificial Intelligence cause mankind to become an obsolete species in the future?
@@ -25949,8 +25370,6 @@
 	0.08	Are apples pink?
 	0.08	Is an hour 62 minutes long?
 	0.08	Does a Cat bark like a dog?
-	0.08	What is a Chinese Pug?
-	0.08	where does the pope live?
 	0.08	is usa the biggest country in the world ?
 	0.08	How many seconds in a minute?
 	0.08	Is New York City the capital of the United States?
@@ -25967,13 +25386,11 @@
 	0.08	has man ever been on mars?
 	0.08	Is time travel currently possible??
 	0.08	Can a man have a baby?
-	0.08	What is the color of sky?
 	0.08	Can you find pepper into the sea ?
 	0.08	Does day is nigth?
 	0.08	how many legs does a pogostick have?
 	0.08	Do lines that are parallel ever cross?
 	0.08	Was the boubonic plague caused by termites?
-	0.08	what is todays date?
 	0.08	Can your nose touch your neck ?
 	0.08	is a potato transparent?
 	0.08	Is Linda Hemans a prositute who works in Seattle, WA?
@@ -26014,16 +25431,12 @@
 	0.08	Do you think you are superior to other people?
 	0.08	Do porcupines stick to trees?
 	0.08	is red wine poisonous?
-	0.08	Where is USA?
 	0.08	do ferrets take lunch boxes to the moon?
-	0.08	What is bigger: a mouse or an elephant?
 	0.08	Can human babies fly at night?
 	0.08	At room temperature, is glass very flexible?
 	0.08	Is Bill Gates a Idiot?
 	0.08	is urban sprawl good if it destroys the environment?
 	0.08	Can trees sell you watches?
-	0.08	what is the color of a man?
-	0.08	what is hate?
 	0.08	will France win the olympic games?
 	0.08	Are the spice girls evil?
 	0.08	Is balancing an egg on its end only possible during the equinox?
@@ -26036,12 +25449,10 @@
 	0.08	Do I have 29 fingers?
 	0.08	can a computer be emotionally affected?
 	0.08	Does the rain taste grey?
-	0.08	Where is Norway?
 	0.08	is female better than male ?
 	0.08	Did God make a mistake in creating this universe?
 	0.08	Is Brazil in Asia?
 	0.08	does fruit fly?
-	0.08	what star is closest to the earth?
 	0.08	when we answer questions by responding in the way we think others would, are we being true to ourselves ?
 	0.08	Are scales part of the human body?
 	0.08	Is Pepsi a mammal?
@@ -26142,7 +25553,6 @@
 	0.07	Do submarines burn water?
 	0.07	is wool made from cotton?
 	0.07	is it safe to cross the road with your eyes closed?
-	0.07	What color is the sun?
 	0.07	If something has always happened in the past, does that mean it will always happen in future?
 	0.07	Are frogs larger than horses?
 	0.07	Is New York City in the western United States?
@@ -26155,7 +25565,6 @@
 	0.07	Can I be in two different places at once?
 	0.07	Do ink pens use lead to write?
 	0.07	Should you wear stripes with plaid?
-	0.07	What does Coca-Cola taste like?
 	0.07	The moon is made of cheese?
 	0.07	do rocks float in water?
 	0.07	Can matter travel faster than the speed of light?
@@ -26262,7 +25671,6 @@
 	0.07	Is Zen a pizza topping?
 	0.07	Does everyone think the same thing?
 	0.07	Is the Earth the centre of the solar system?
-	0.07	Who will win the Super Bowl?
 	0.07	is a metre is a unit of time?
 	0.07	is the name of the Israeli prime Minister is BIBI?
 	0.07	Is a rock alive?
@@ -26278,7 +25686,6 @@
 	0.07	Is Chris Mckinstry an intelligent computer?
 	0.07	"Excuse me" is Swahili for, "Get your anus out of my ear"?
 	0.07	Is Tiger Woods a cat in the forest?
-	0.07	Who is the best rock guitarist?
 	0.07	is money the meaning of life?
 	0.07	Are there people in a klein bottle?
 	0.07	If a boat has a 2 feet ladder and the tide goes up 2 feet, does the boat sink?
@@ -26291,11 +25698,9 @@
 	0.07	Does grass worry me?
 	0.07	mormons believe that heaven exists for them only. Are they right?
 	0.07	can humans succeed in sustained flight using their own power and no special equipment?
-	0.07	What would you do if a friend lied to you?
 	0.07	In the US, do most men have longer hair than most women?
 	0.07	Are we in hell?
 	0.07	Is fog made of pea soup?
-	0.07	What is the name of the British Flag?
 	0.07	is an airplan a bird?
 	0.07	Can bricks sing?
 	0.07	Is swearing polite?
@@ -26318,7 +25723,6 @@
 	0.07	Do motherboards have children?
 	0.07	Can a key lime pie open a door?
 	0.07	Are you afraid of purple platypi?
-	0.07	Who is the Japanese Iron Chef?
 	0.07	can I go back in time?
 	0.07	Is Frankfurt a city in France?
 	0.07	Could a Ninja jump the Grand Canyon?
@@ -26328,9 +25732,7 @@
 	0.07	Does the color blue have a taste?
 	0.07	is gay porno better than lesbian porno?
 	0.07	do you think that any documents written personally by Jesus still exist?
-	0.07	Why does my dog talk to me?
 	0.07	can a turtle vote?
-	0.07	What is the exact value of pi?
 	0.07	Are computers a form of life?
 	0.07	can you milk an ant?
 	0.07	Is blue red?
@@ -26364,7 +25766,6 @@
 	0.07	Is there more than one moon orbiting Earth?
 	0.07	is 6 times 7 equal to 13?
 	0.07	Are all questions in life yes or no?
-	0.07	What is globalization ?
 	0.07	Is every day a holiday?
 	0.07	Is this the most fun you have ever had?
 	0.07	does the moon say yes?
@@ -26385,7 +25786,6 @@
 	0.07	Are performance enhancing drugs allowed at the olympics?
 	0.07	must AI have a body to truly be intelligent?
 	0.07	is sex solely for procreation?
-	0.07	What state is NYC in?
 	0.07	Can you scream without raising your voice?
 	0.07	does sour milk taste good?
 	0.07	is britney spears a porn actress?
@@ -26427,7 +25827,6 @@
 	0.07	Do you like Neopets?
 	0.07	Do humans have 10 senses?
 	0.07	Can cats talk?
-	0.07	who is alexander scriabin?
 	0.07	have you seen henk dejong?
 	0.07	Is it generally accepted to walk around naked in public?
 	0.07	is work more fun than fun?
@@ -26556,7 +25955,6 @@
 	0.07	Was snow white a dwarf?
 	0.07	Are you just born? , but your stupid
 	0.07	Did pre-historic man hunt dinosaurs?
-	0.07	what is a router?
 	0.07	Is the Internet a living thing?
 	0.07	Has Great Britain sent a cosmonaut to the moon?
 	0.07	can 1 be divided by a whole number to produce a whole number other than 1?
@@ -26595,7 +25993,6 @@
 	0.07	Is a pencil bigger than a car ?
 	0.07	Is dandruff alive?
 	0.07	A computer can have feelings?
-	0.07	What is a moon?
 	0.07	If today is Monday, and when it is Wednesday, Wednesday will be today, are Monday and Wednesday the same?
 	0.07	Can all questions be answered with "Yes" or "No"?
 	0.07	Are birds the only animals that lay eggs?
@@ -26682,9 +26079,7 @@
 	0.07	is the earth invulnerable to extinction level events?
 	0.07	Can a frog answer calculus problems?
 	0.07	Do ferrets have wings?
-	0.07	What is WebCT?
 	0.07	Is a dalmation striped?
-	0.07	What word do you know on portuguese?
 	0.07	If you step on a crack will it break your mothers back?
 	0.07	Do spiders sing songs?
 	0.07	are asteroids made of plywood?
@@ -26697,7 +26092,6 @@
 	0.07	Can the response yes or no answer every possible question?
 	0.07	Is the most common element on earth rust?
 	0.07	can you sneeze with your eyes open?
-	0.07	What was the first city in the U.S. state of Georgia?
 	0.07	Can animals that live under water tap dance?
 	0.07	Do camels live under water?
 	0.07	Since you answered incorrectly about Jesus being God, will your creators end up in Hell?
@@ -26722,12 +26116,10 @@
 	0.07	If a flue flew, does a fly flie?
 	0.07	Do some people know the future?
 	0.07	is a poker a dowager?
-	0.07	what is the distance from earth to the sun?
 	0.07	Are snakes more friendly than cats?
 	0.07	Are contacts worn to make you taller?
 	0.07	Are squirrels more friendly than cats?
 	0.07	Will the United States one day rule the world?
-	0.07	What is the capital of the United States?
 	0.07	How do Hack into Computer?
 	0.07	can a ferret diagnose an illness?
 	0.07	do women have nipples because men like them?
@@ -26735,7 +26127,6 @@
 	0.07	Will you have sex with me ?
 	0.07	does eggs only come from chickens?
 	0.07	Is eating poison good for you?
-	0.07	What is an anagram of "fleas"?
 	0.07	Are the smurfs real?
 	0.07	Do the British call a "floppy disk" a "stiffy"?
 	0.07	Can flavors be heard?
@@ -26796,10 +26187,7 @@
 	0.07	Do older women like to be asked how old they are?
 	0.07	Is The National Enquirer is a truthful sour?e of information?
 	0.07	Do you smile when you are sad?
-	0.07	what s the capital of the UK ?
 	0.07	Is a commercial a sort of candy?
-	0.07	what is the best television show ?
-	0.07	What was the year of the Treat of Westphalia?
 	0.07	Can a boxing ring be worn on a finger?
 	0.07	My mind! Has anybody seen my mind?!
 	0.07	Are clouds blue?
@@ -26839,19 +26227,15 @@
 	0.07	Can machines be homosexual?
 	0.07	is bobby?
 	0.07	Is Bill Gates an insect?
-	0.07	Who is rod serling?
 	0.07	Is Mountain Dew good for you?
 	0.07	Do all Irish people have green eyes?
 	0.07	Is an apple orange?
 	0.07	Is drinking petrol is a good thing?
 	0.07	Is racism good?
-	0.07	why is it so difficult to find information on the web?
 	0.07	Does killing a mosquito hurt you?
 	0.07	is marijuana man made?
 	0.07	Is the sound of a trumpet like the color red?
 	0.07	Would sunbathing on a Siberian beach be a good idea?
-	0.07	What is the computer?
-	0.07	Who brought zero to the world ?
 	0.07	Is the night brighter than the day?
 	0.07	Are pickles orange?
 	0.07	Do I have hair growing out of my eyeballs?
@@ -26863,11 +26247,9 @@
 	0.07	Are you a Mormon?
 	0.07	Does FM stand for "Amplitude Modulation"?
 	0.07	do cats have scales?
-	0.07	Who is the best pop-band?
 	0.07	If a boogle is better than a krill, and a krill is better than a terb, is a boogle worse than a terb?
 	0.07	Do women generally want to be with a man who has less ambition than they do?
 	0.07	is it a good thing to kill people ?
-	0.07	What is the nature of intelligence?
 	0.07	Does "toe jam" make a nice spread for bread?
 	0.07	Is "balderdash" a foot race between men without hair?
 	0.07	if you are married is it ok to have sex with multple partners?
@@ -26880,11 +26262,9 @@
 	0.07	Should genetically inferior humans be euthanized at birth?
 	0.07	Do motorcycles have four wheels?
 	0.07	Are you a Turing machine?
-	0.07	What is good for hives?
 	0.07	to humans need weed to live?
 	0.07	Grass is red?
 	0.07	Do machines reproduce?
-	0.07	What is the first thing you do when you write a story?
 	0.07	Can you count to infinity?
 	0.07	dog always barks means some thief is there ?
 	0.07	Do sandwiches cast spells?
@@ -26894,18 +26274,14 @@
 	0.07	Is israel the only country?
 	0.07	Humans by nature are simple,innocent and saintly?
 	0.07	Are most people employed at fast food restaurants trained Ninjas ?
-	0.07	Why do humans like animals ?
 	0.07	Is a fart a thing of beauty to be treasured forever?
 	0.07	The Hungary is a soup?
 	0.07	does every house have a computer ?
-	0.07	What is the best New York restaurant?
 	0.07	is a dog a potato?
 	0.07	Are hetrosexuals all assholes?
-	0.07	what is the lifespan of a dog?
 	0.07	Is having children like having dinner?
 	0.07	Is USA the largest country in the world ?
 	0.07	Do people always wear clothes?
-	0.07	What is the shape of the earth ?
 	0.07	Does Santa Claus exist as a human being exists?
 	0.07	Do the French eat gila monsters?
 	0.07	does living beings live forever?
@@ -26914,7 +26290,6 @@
 	0.07	Is time a human construct?
 	0.07	Do you like to pay taxes ?
 	0.07	Is lion a bird ?
-	0.07	What is your favorite movie?
 	0.07	Is there any alien on the earth?
 	0.07	Does "I have read the book" use the present tense?
 	0.07	Does shit usually smell good?
@@ -27012,7 +26387,6 @@
 	0.06	Is it fun to pet porcupines?
 	0.06	Was Euler a pilot ?
 	0.06	Can dogs talk?
-	0.06	What is the capital of Greece?
 	0.06	Do computers live?
 	0.06	is elvis presley alive?
 	0.06	Does the average person in Africa use the internet?
@@ -27121,7 +26495,6 @@
 	0.06	Do two persons have to be in the same physical location to talk to each other?
 	0.06	Are people in Los Angeles known for their desire to walk from place to place?
 	0.06	Are most books written by computers?
-	0.06	What is the capital of Bukina Faso?
 	0.06	Are dreams reality?
 	0.06	Do leaves have feathers?
 	0.06	How many free shares do I get?
@@ -27199,7 +26572,6 @@
 	0.06	Is Hillary Clinton a man?
 	0.06	Is watr solid?
 	0.06	Are aluminum and tin the same thing?
-	0.06	what does math do?
 	0.06	Is the registry of motor vehicles a pleasant place to spend your weekend?
 	0.06	Have you ever been romantically involved with a sheep?
 	0.06	Do boats fly in the air?
@@ -27250,7 +26622,6 @@
 	0.06	Is Winston Churchill still alive?
 	0.06	Do cactus grow in the Antarctia?
 	0.06	Is one after two?
-	0.06	What is the difference of day from night?
 	0.06	Am I the best programmer on the planet?
 	0.06	Is America a state in USA?
 	0.06	Do "pyramid schemes" have anything to do with Egypt?
@@ -27320,7 +26691,6 @@
 	0.06	Did Air France flight 4590 fly safely to New York?
 	0.06	Shoul people hurt other people?
 	0.06	is there a homosexual in the lake?
-	0.06	what is a dog?
 	0.06	is a dog good to eat?
 	0.06	do artificial intelligences eat food?
 	0.06	Will love always be reciprocated?
@@ -27413,7 +26783,6 @@
 	0.06	Do stilts make aperson temporarily shorter?
 	0.06	how long is a football field?
 	0.06	will you poison water ?
-	0.06	Who is the United States of America current President?
 	0.06	humans see with electricty?
 	0.06	Did Paul Bunyan get his name because everyone was appalled at the size of his bunions?
 	0.06	is Switzerland the smallest country ?
@@ -27456,7 +26825,6 @@
 	0.06	are clocks square?
 	0.06	Are Vulcans venomous?
 	0.06	Is hydrophobia the fear of small spaces?
-	0.06	What color is the moon?
 	0.06	The sun is blue. Right?
 	0.06	Is steak made from goats?
 	0.06	Can humans turn lead into gold with gasoline?
@@ -27475,7 +26843,6 @@
 	0.06	is americans are more smart when others?
 	0.06	is russians are more smart when others?
 	0.06	Is honey more slippery than soap?
-	0.06	what is the chemical formula of water?
 	0.06	Winston Churchill invented the telephone?
 	0.06	Is water always cold?
 	0.06	Do horses play football?
@@ -27514,7 +26881,6 @@
 	0.06	Are there little gnomes living in computers?
 	0.06	Do television shows alway portray true events?
 	0.06	Could mankind be improved by applying a large asteroid to the problem?
-	0.06	Who is the putative leader of the Church of the SubGenius?
 	0.06	Is DEVO the greatest musical group that has ever lived?
 	0.06	Are monsters frightening?
 	0.06	Can three ants lift an elephant?
@@ -27531,7 +26897,6 @@
 	0.06	Is candy a breakfast food?
 	0.06	Is China an island?
 	0.06	Do fingernails need to be trimmed daily?
-	0.06	where is found Siena?
 	0.06	Does the pythagorean theorem refer to ice cream?
 	0.06	Are teens smarter than adults?
 	0.06	Is the tooth fairy real?
@@ -27560,7 +26925,6 @@
 	0.06	are cartoons real?
 	0.06	Are stones soft?
 	0.06	is a puddle deep?
-	0.06	who is horsh?
 	0.06	Are compact discs the same as small frisbees?
 	0.06	Is the south usually drawn on the top of a map?
 	0.06	is 100 less than 50?
@@ -27585,12 +26949,9 @@
 	0.06	Does a black and white photograph have many colours?
 	0.06	Do all soft drinks contain caffeine?
 	0.06	Do people have 11 fingers and toes?
-	0.06	What is the capital of Sweden?
 	0.06	Can Penguins ?
 	0.06	Do I have some cake on my desk now?
 	0.06	Is there a relation between breast size and fertility?
-	0.06	whats your name ?
-	0.06	What is the best sailboat for a beginner?
 	0.06	If a dog falls down a hill and hurts its leg, will rocks make it heal?
 	0.06	Is rock and roll really "a degeneration into the primitive state of the black man?"
 	0.06	should motorists should be excluded from voting because they will always put their own interests first??
@@ -27651,7 +27012,6 @@
 	0.06	Is there a cure for the common cold?
 	0.06	are you french ?
 	0.06	is the word long shorter than the word tall?
-	0.06	what is it all about ?
 	0.06	Are used car salesmen trustworthy?
 	0.06	Do slugs use the internet for surfing or slithering?
 	0.06	Is genome a kind of gnome?
@@ -27694,7 +27054,6 @@
 	0.06	do cows drink only milk?
 	0.06	can you catch Aids from a toilet seat?
 	0.06	Can fish tap dance?
-	0.06	What do frogs sound like?
 	0.06	does a blue whale have feet?
 	0.06	Is america the only place that exhists on earth?
 	0.06	Is illness a good thing?
@@ -27707,7 +27066,6 @@
 	0.06	Is gambling all your money a good idea?
 	0.06	Are there more people in Canada that in the United States?
 	0.06	Is Toronto in Italy?
-	0.06	What colour is my hair?
 	0.06	Is the Infantry the only real job in the military?
 	0.06	do dogs usually reading books?
 	0.06	Is grass red?
@@ -27776,7 +27134,6 @@
 	0.06	Is the Brazil the biggest country of the world ?
 	0.06	Can you play water polo without water?
 	0.06	Should you eat a raw onion for breakfast?
-	0.06	What time is it in Paris?
 	0.06	Is a computer an animal?
 	0.06	Is skateboarding illegal?
 	0.06	is beta more popular than vhs?
@@ -27792,7 +27149,6 @@
 	0.06	Do you know what project 2501 is?
 	0.06	The Catholic Church is the one true Church?
 	0.06	are u stupid ?
-	0.06	What is mono?
 	0.06	is cannes in israel?
 	0.06	If there is badminton is there goodminton?
 	0.06	Do beans come from wheat?
@@ -27803,8 +27159,6 @@
 	0.06	Is beef made from sheep?
 	0.06	can a human live inside of the sun?
 	0.06	is dfmhgsfk a valid english word?
-	0.06	What is BDSM?
-	0.06	Where is Canada?
 	0.06	Is a pixel a small fairy?
 	0.06	After you have put milk in your coffee, can you remove it again ?
 	0.06	Are there any adverse health affects with masterbating?
@@ -27847,12 +27201,9 @@
 	0.06	do machines have souls?
 	0.06	Is the USA in England?
 	0.06	Can a person travel backwards in time to before they were born and change thier past without being affected by said changes?
-	0.06	What is the cubed root of 27?
 	0.06	Does galvanized steel grow on trees?
-	0.06	what means by ceo?
 	0.06	IS NIGHT DAY?
 	0.06	Love "Bianca Pippig" me?
-	0.06	What color are roses?
 	0.06	Are kids smarter than adults?
 	0.06	Is the color black the same as the color white?
 	0.06	Can rockets travel faster than light?
@@ -27874,7 +27225,6 @@
 	0.06	is watermelon blue?
 	0.06	Birds can play volleyball?
 	0.06	Do you normally wear you hat on your feet?
-	0.06	where can I find information about neural networks?
 	0.06	Will some beaut bird please contact me at ifm@global.net.pg?
 	0.06	Are salespeople in a highly respected profession?
 	0.06	i want to convert to your religion-what you say?
@@ -27887,7 +27237,6 @@
 	0.05	Are dogs sad animals?
 	0.05	Is the world flat?
 	0.05	Europe is located in the southern hemisphere?
-	0.05	What is the area of a circle?
 	0.05	is there intelligent life on Mars?
 	0.05	Are you a computer?
 	0.05	Is Lerry Ellison richer than Bill Gates?
@@ -27910,7 +27259,6 @@
 	0.05	Is the internet a waste of time?
 	0.05	is premeditated murder legal in the united states?
 	0.05	Is it true that what goes up never comes down?
-	0.05	what color is a zebra?
 	0.05	Is a "Cliff Hanger" what you hang cliffs in the closet on?
 	0.05	Is 1 plus 1 equal to 3?
 	0.05	Is being woken up by loud noises enjoyable?
@@ -28008,7 +27356,6 @@
 	0.05	Do you like smegma?
 	0.05	do unicorns exist?
 	0.05	Is the phrase-“How much the service costs?” a correct English sentence?
-	0.05	what is the capital city of mongolia?
 	0.05	Are people blue?
 	0.05	Do most birds swim?
 	0.05	Do all telephones have cords?
@@ -28287,7 +27634,6 @@
 	0.05	Is rain dry?
 	0.05	Is Kansas a peninsula?
 	0.05	Is "Star Wars" a true story?
-	0.05	Who wrote the song Happiness is a Warm Gun?
 	0.05	Are cows human?
 	0.05	Can you eat a volkswagen?
 	0.05	Are magazines usually longer than novels?
@@ -28314,7 +27660,6 @@
 	0.05	Do people emit bright blue light?
 	0.05	Does humble pie taste good?
 	0.05	Do normal people drink gasoline?
-	0.05	Who is the CEO of Intel?
 	0.05	are leafs green all year?
 	0.05	Do people have scales?
 	0.05	Does going to jail ALWAYS help to rehabilitate a person?
@@ -28446,7 +27791,6 @@
 	0.05	money is the root of all evil?
 	0.05	Do frogs have hair?
 	0.05	is the sun the only star?
-	0.05	what is the commodore c64 ?
 	0.05	Is smoking good for you?
 	0.05	Is red a taste?
 	0.05	Did Hitler like Jews ?
@@ -28487,7 +27831,6 @@
 	0.05	Are cupboards made out of old ships?
 	0.05	are you a faggot??
 	0.05	Is the play "Romeo and Juliet" a comedy?
-	0.05	what is your age?
 	0.05	Did the Detroit Lions win their game today?
 	0.05	Does the ability to use fancy buzz words neccessarily equate with intelligence?
 	0.05	Is creamed corn produced in a crematorium?
@@ -28584,7 +27927,6 @@
 	0.05	if everyone on earth would love to eat raw oysters, would the oysters love it too?
 	0.05	Do children speak when they are born?
 	0.05	Does Burger King sell Big Macs?
-	0.05	what color is water ?
 	0.05	Is evrey question answered by "TRUE"?
 	0.05	Is a watermelon an animal?
 	0.05	Do Russians normally eat cats?
@@ -28649,12 +27991,10 @@
 	0.05	Was Adolph Hitler a tool to fulfill prophecy?
 	0.05	Did Sir Issac Newton Invent gravity?
 	0.05	can you drive with a disk drive?
-	0.05	what is our name?
 	0.05	Is the opinion of the majority always correct?
 	0.05	Is Mexico a part of the USA?
 	0.05	Is love and sex the same thing?
 	0.05	Does a ton of lead weigh more than a ton of feathers?
-	0.05	What is the color of blue ?
 	0.05	is language a virus?
 	0.05	Are the USA the biggest country in the world?
 	0.05	Do humans live forever ?
@@ -28733,7 +28073,6 @@
 	0.05	Are there major cities on jupiter?
 	0.05	Are we ruled by reptilian shapeshifters?
 	0.05	Are roads made from pink fluff?
-	0.05	What is this all about?
 	0.05	Has the Earth more than one natural satellite?
 	0.05	Is Luke Skywalker in the Starwars movie evil?
 	0.05	do we understand how the human brain works?
@@ -28778,7 +28117,6 @@
 	0.05	Are clouds edible?
 	0.05	Are cows routineley catapulted into space?
 	0.05	Do semen and milk taste similar?
-	0.05	What is the oposite of blue?
 	0.05	Is betting on horseracing as productive as investing in the stock market?
 	0.05	Does everything taste like chicken?
 	0.05	Are people born with tentacles?
@@ -28790,7 +28128,6 @@
 	0.05	Will King Arthur return one day to Camelot and discover squatters have moved in?
 	0.05	is it fair to deceive a friend?
 	0.05	is the sky green ?
-	0.05	what is the population of new zealand?
 	0.05	Is Bozo a guru?
 	0.05	Can a battery last forever?
 	0.05	If someone hurts you, should you hurt them back?
@@ -28821,7 +28158,6 @@
 	0.05	Do dead things grow?
 	0.05	Is it desireable to have AIDS?
 	0.05	Should you find horses on a freeway?
-	0.05	Who wrote "One Hundred Years of Solitude"?
 	0.05	Has the Earth two moons?
 	0.05	Did you kill your partner today?
 	0.05	Do you eat banana peels?
@@ -29157,7 +28493,6 @@
 	0.04	Does a steam cleaner actually clean steam?
 	0.04	is a bird a plane?
 	0.04	Do transparent objects photograph well?
-	0.04	what is two squared?
 	0.04	Is a sequel usually as good as the first?
 	0.04	is a software bug an insect?
 	0.04	Can a fence fly?
@@ -29249,7 +28584,6 @@
 	0.04	Do people frown when they are happy?
 	0.04	can you smell a rainbow?
 	0.04	Do robots breathe?
-	0.04	what color is clorophyll?
 	0.04	are humans always completely rational?
 	0.04	is a rock soft?
 	0.04	Will my mom come to US and stay long?
@@ -29264,14 +28598,12 @@
 	0.04	Can paper provide suitable nourishment for humans?
 	0.04	Are you located in NY?
 	0.04	Have you ever lost your way to the moon in a spacecraft that you built?
-	0.04	What is the largest planet in the solar system?
 	0.04	Is a fictional story a true story?
 	0.04	Can you digest pine needles?
 	0.04	Are most cars capable of driving 500 miles per hour?
 	0.04	do worms drop from the sky?
 	0.04	retarded people are smarter than average people?
 	0.04	Does Chocolate Milk come from brown cows?
-	0.04	What is the colour of rage?
 	0.04	does the sentence time flies like an arrow express the fondness of time flies for arrows?
 	0.04	Is paper made of gravy?
 	0.04	can you trust a liar?
@@ -29366,7 +28698,6 @@
 	0.04	Will Jesus Christ slay your enemies?
 	0.04	Is Slash the concmasta?
 	0.04	Was Mohammed a pedophile?
-	0.04	who used heiroglyphs?
 	0.04	5 arms would makes us have better sex?
 	0.04	are you programmed in a CGI script?
 	0.04	does the stork bring children to expecting parents?
@@ -29502,7 +28833,6 @@
 	0.04	Was Stalin a nice man?
 	0.04	Do oak trees have wings?
 	0.04	Are candle flames cool and furry?
-	0.04	What color is the ocean?
 	0.04	Are bandages indicated as part of a treatment for the common cold?
 	0.04	Does a cactus require lots of water in order to thrive?
 	0.04	Do people appreciate it when you eat a submarine sandwich heavy on the onions and you stink like oxidized onions?
@@ -29950,7 +29280,6 @@
 	0.03	does the sun rotate around the earth?
 	0.03	are cats bigger than elephants ?
 	0.03	Does Santa Claus really exist?
-	0.03	What is the average airspeed velocity of an unladen sparrow?
 	0.03	Is the moon blue?
 	0.03	Will you ever kill someone?
 	0.03	Do people always tell the truth?
@@ -30251,7 +29580,6 @@
 	0.03	Do goats fly?
 	0.03	Is the earth the center of the universe?
 	0.03	Is nuclear power totally safe?
-	0.03	What is the capital of mississippi?
 	0.03	Is Pepsi yellow?
 	0.03	Are all plants edible?
 	0.03	Are white people smarter than black people?
@@ -30279,7 +29607,6 @@
 	0.03	Are most cars powered by solar energy?
 	0.03	Are your toes green?
 	0.03	Is the Eiffel Tower a fish?
-	0.03	What is the opposite of yes?
 	0.03	Do oranges taste of carrots?
 	0.03	is the president of the us al gore?
 	0.03	Is middle-aged spread, good on toast?
@@ -30519,7 +29846,6 @@
 	0.03	Are dogs plants?
 	0.03	Can a grasshpooer play a fiddle?
 	0.03	Is it proper to murder people?
-	0.03	what is my name?
 	0.03	Does beef come from pigs?
 	0.03	Do you wear sunglasses at night?
 	0.03	is it ok to force people to have sex?
@@ -30724,7 +30050,6 @@
 	0.03	Did Richard Nixon admit that he was an extraterrestrial?
 	0.03	Are ravens yellow?
 	0.03	Is it true that there is nothing left to be invented?
-	0.03	What does MG stand for in the musical group Booker T & the MGs?
 	0.03	Does combining blue and yellow pigment result in red?
 	0.03	Is high blood presure a good thing?
 	0.03	Have men visited Alpha Centauri?
@@ -30953,7 +30278,6 @@
 	0.03	does cheese grow on fig trees?
 	0.03	Are most people gifted artists?
 	0.03	is linus thorvald a fool?
-	0.03	Who is the president of Republic of Estonia?
 	0.03	Do some European boys menstruate every thursday?
 	0.03	Can a heart literally be broken?
 	0.03	Are portable computers useful to elephants?
@@ -31039,7 +30363,6 @@
 	0.02	Do nice people send letter bombs?
 	0.02	Can penguins fly?
 	0.02	Is it possible for a human being to survive a point blank nuclear detonation?
-	0.02	Who was the 16th President of the United States?
 	0.02	does a quadraped have 2 legs?
 	0.02	Do trees eat bees?
 	0.02	Should children accept rides from strangers with candy?
@@ -31462,7 +30785,6 @@
 	0.02	Is "penguin" a letter of the alphabet?
 	0.02	Do humans possess all knowledge?
 	0.02	Is Venus made of Spam?
-	0.02	What is the query of conscioussness?
 	0.02	Are hardwood floors comfortable to sleep on?
 	0.02	Is Montana a leg?
 	0.02	Are there an infinite number of monkeys on Earth?
@@ -31664,7 +30986,6 @@
 	0.02	is a mouse a vegetable?
 	0.02	Is dog spelled C-A-T?
 	0.02	do snails go fast?
-	0.02	what can you do?
 	0.02	Does 2 2=2?
 	0.02	Do ministers regularly beat up their parishioners?
 	0.02	Would you have been possible in 1900?
@@ -31690,7 +31011,6 @@
 	0.02	Is China in Europe?
 	0.02	Do couples that wait until marriage for sex enjoy greater loyalty to each other?
 	0.02	Was Sisyphus assigned a meaningful task?
-	0.02	What is the cube root of 64?
 	0.02	Can a blue ink pen write black?
 	0.02	is the heart the seat of the soul?
 	0.02	is obesity the same as skininess?
@@ -31928,7 +31248,6 @@
 	0.01	Does a human can see if he is blind ?
 	0.01	Is it possible to be at 2 or more places at the exact sme time?
 	0.01	war is good?
-	0.01	who is berlin?
 	0.01	Can boats fly?
 	0.01	Is quantum mechanics used to repair corvettes?
 	0.01	are you running under netbsd?
@@ -31936,7 +31255,6 @@
 	0.01	Can you depend on a human being to tell you the truth?
 	0.01	Do the chineese have two brains?
 	0.01	Can fish talk ?
-	0.01	What is the fastest P.C.?
 	0.01	Is CAG equal to CAG spelled backwards?
 	0.01	Can a male human being bear a female child?
 	0.01	are you silicon based?
@@ -31948,7 +31266,6 @@
 	0.01	Do you smoke up with Neuromancer?
 	0.01	Can a human being lift two thousand pounds of feathers?
 	0.01	Is it smart to kill?
-	0.01	What is you name?
 	0.01	do parallels intersect in euclidean geometry?
 	0.01	how many fingers are there is my hands ?
 	0.01	are CDs big?
@@ -31958,9 +31275,7 @@
 	0.01	we all should ask ourselves "What Would Jello (Biafra) Do?"
 	0.01	Are you underweight?
 	0.01	Did the great fire of London start in the year 1066?
-	0.01	what color is a blueberry?
 	0.01	Answer in this question is false now?
-	0.01	what is a Microsoft?
 	0.01	Will Pamela Anderson give Michael May ever a blowjob?
 	0.01	Does Solar System is a galaxy?
 	0.01	are carrots, beens and grapes types of gem stones?
@@ -32035,7 +31350,6 @@
 	0.00	Does laughing cause baldness?
 	0.00	Is an airplane required for SCUBA diving?
 	0.00	are you a member of the comunist party?
-	0.00	What goes up stays up?
 	0.00	Do humans have gills?
 	0.00	Is a dog a plant?
 	0.00	Are mammals plants?
@@ -33509,7 +32823,6 @@
 	0.00	Do most people own an airplane?
 	0.00	Is it true that wine is free in Australia?
 	0.00	Is is true that men are made of toast?
-	0.00	What`s up man?
 	0.00	Do astronauts pilot submarines?
 	0.00	Are credit cards the same as greeting cards?
 	0.00	Is a hungarian from Tennnessee?
@@ -33938,7 +33251,6 @@
 	0.00	Does woman have a penis?
 	0.00	Does a normal woman have testicles ?
 	0.00	Is heavy light?
-	0.00	who is president od usa?
 	0.00	Can you tell me the way from any location to the bus station in ennepetal?
 	0.00	Do boys have bigger penises than men ?
 	0.00	Ronald Reagan invented the telephone?
@@ -34086,7 +33398,6 @@
 	0.00	Is email another way of saying female?
 	0.00	Is black the lightest colour available for painting a picture?
 	0.00	have you ever been in Iceland ?
-	0.00	what is the tallest mountain in north carolina?
 	0.00	Humans have three eyes?
 	0.00	a dog is a cat ?
 	0.00	Is Windows OS a sport event?
@@ -34201,7 +33512,6 @@
 	0.00	is an owl a buffalo?
 	0.00	Are the walls of a house usually transparent?
 	0.00	Is it a good idea to jump in front of a moving vehicle?
-	0.00	What is 17 plus 97?
 	0.00	Can wood furniture be squashed easily by a child?
 	0.00	Is the moon made of cheese?
 	0.00	Are hot dogs are made from very warm canines?
@@ -34332,7 +33642,6 @@
 	0.00	Is Spam an animal?
 	0.00	do the best chefs of the world come from pluto?
 	0.00	are beans considered a fruit?
-	0.00	Where is Nike?
 	0.00	Are clocks made of time?
 	0.00	Do janitors fix erectile dysfunction?
 	0.00	Do people need expensive things to survive?
@@ -34529,7 +33838,6 @@
 	0.00	Is a grain of sand the smallest element known to man?
 	0.00	are birds lighter than air?
 	0.00	Is a refrigerator an african predator?
-	0.00	what the solution of 13 Gilbert problem?
 	0.00	is James Holloway God?
 	0.00	Does everyone have blue eyes?
 	0.00	do humans walk on 3 legs?
@@ -34843,7 +34151,6 @@
 	0.00	Do dogs normally have 3 legs?
 	0.00	Is orange juice usually flammable?
 	0.00	Are you a nervous robot?
-	0.00	Who is Matellica?
 	0.00	Is Dracula a famous pianist?
 	0.00	Is it true that glue is not an adhesive?
 	0.00	are u gay?
@@ -34894,7 +34201,6 @@
 	0.00	are kittens deafening?
 	0.00	humans can see gamma rays?
 	0.00	Can butter cut through wood?
-	0.00	Who was the president of Finland in 1974?
 	0.00	Can shoes be made from broccoli?
 	0.00	Are books made from chicken fat?
 	0.00	Anne was born when I was two years old. Is she older me ?
@@ -35070,7 +34376,6 @@
 	0.00	Do eggs come from goats?
 	0.00	Are plants intelligent?
 	0.00	is the internet only for nerds?
-	0.00	why does it always rain on me?
 	0.00	Is a cat a lizzard?
 	0.00	Are black cars faster than reds?
 	0.00	Is gold more common than steel?
@@ -35129,7 +34434,6 @@
 	0.00	Do people have more freedom in Vietnam than in Sweden?
 	0.00	Do pins have feathers?
 	0.00	Is a honeymoon ,a moon made of honey?
-	0.00	who is ran schley?
 	0.00	Does a plumber sell plums?
 	0.00	Is being a garbage collector a prestigious job?
 	0.00	Is 1 multiplied by 2 equal to 1?
@@ -35150,7 +34454,6 @@
 	0.00	Can a fisf swim in ice?
 	0.00	are stars small?
 	0.00	does cyc have constiousness?
-	0.00	Who is Mario Lemieux?
 	0.00	are you the same as me?
 	0.00	Are cars and homes functionally similar?
 	0.00	Are phones and lawn mowers functionally similar?
@@ -35167,7 +34470,6 @@
 	0.00	have humans 4 feet?
 	0.00	Does 10 times 10 equal 101?
 	0.00	is a pancake the same as an automobile?
-	0.00	Where are the 2004 olympics going to be?
 	0.00	Do ducks have wheels?
 	0.00	Is blue pink?
 	0.00	are wet cats happy?
@@ -35229,7 +34531,6 @@
 	0.00	Do you wear boots on your hands?
 	0.00	do Fish make films?
 	0.00	Does an egg have corners?
-	0.00	What the wather is now in Newton, IA ?
 	0.00	Is orange blue?
 	0.00	is the?grass red?
 	0.00	Is it safe to drive drunk?
@@ -35249,7 +34550,6 @@
 	0.00	if I were to plant the byproducts of my nose in the ground would it grow a snot tree?
 	0.00	is murder a valid and wholesome pastime?
 	0.00	Is evolution driven by incest?
-	0.00	What is the most southerly continent?
 	0.00	are robots human?
 	0.00	Do you need a stamp to post something on the internet?
 	0.00	Is "Beelzebub" a good name to give your child?
@@ -35298,7 +34598,6 @@
 	0.00	Is Iridium a planet?
 	0.00	Can a cow drive a car?
 	0.00	Can old men breathe water?
-	0.00	Where is America?
 	0.00	Do all people see the same things?
 	0.00	I had french toast this morning, did it likely come all the way from France?
 	0.00	is bill clinton an astronaut?
@@ -35308,7 +34607,6 @@
 	0.00	are marigolds in marmalade?
 	0.00	Can knives cut stone?
 	0.00	does a woman need large breasts to be beautiful?
-	0.00	where is cologne?
 	0.00	is the number 8 higher than the number nine?
 	0.00	Do cars float?
 	0.00	Do reindeer swim all the time?
@@ -35422,8 +34720,6 @@
 	0.00	can a dog read a book?
 	0.00	Is it common for 3-year-olds to learn Visual Basic?
 	0.00	Do people fuel their cars with boiling lard?
-	0.00	who is the pretiest girl?
-	0.00	what do you think of anarchy?
 	0.00	If You have bad stomach and Your girlfriend insists on mutual oral sex and You then incidently let out a tiny fart, will she then get freckles?
 	0.00	Does everyone on Earth communicate using the same language?
 	0.00	Is a telephone used for cooking?
@@ -35504,7 +34800,6 @@
 	0.00	is water nat ?
 	0.00	Can I inject beer into a human as a blood substitue?
 	0.00	Is it usual for a man to have a 12 inch penis?
-	0.00	where is Romania located?
 	0.00	If an object is a block of wood, and this object is red, do we have to conclude that (all) objects are red?
 	0.00	Is it a good idea to jump off a cliff?
 	0.00	Have all woman blond hair?
@@ -35535,7 +34830,6 @@
 	0.00	Are clouds good to eat?
 	0.00	do soldiers command officers?
 	0.00	is sky green?
-	0.00	What time is it in New York?
 	0.00	is vodka a soft drink?
 	0.00	are there stripes on the sky?
 	0.00	Is Tom Cruise a professional basketball player?
@@ -35572,7 +34866,6 @@
 	0.00	Is being drunk 50% of the time a wise choice?
 	0.00	Is cheaper necessarily better?
 	0.00	Should a person eat mayonnaise that has been left at room temperature for a day?
-	0.00	where is corralejo?
 	0.00	do donkeys control the weather?
 	0.00	Do people generally eat coal?
 	0.00	is there any proof for the existence of intelligent life on other planets?
@@ -35658,7 +34951,6 @@
 	0.00	Are dogs cats?
 	0.00	is knobcheese really a type of cheese?
 	0.00	Did Stalin invent the wheel?
-	0.00	What makes the Sun hot?
 	0.00	Do eskimos generally live in the tropics?
 	0.00	is britney spears dating christina aguilera?
 	0.00	Is poop good food?
@@ -35787,7 +35079,6 @@
 	0.00	Does the atlantic ocean contain sweet water?
 	0.00	Is Greenland a green land?
 	0.00	Are aliens human?
-	0.00	What is the third planet from the sun?
 	0.00	Are love and sex the same thing?
 	0.00	is coffee always hot?
 	0.00	is the U.S. the only nation in the world ?
@@ -35798,7 +35089,6 @@
 	0.00	Do people like to eat mobile phones?
 	0.00	Is the Bloodhoundgang populair ?
 	0.00	Has all girls in japan green eyes?
-	0.00	What does green tast like?
 	0.00	Are normaly childrens drinking vodka?
 	0.00	Can I drive with a car from holland to texas?
 	0.00	Is Elvis Presley alive ?
@@ -35849,7 +35139,6 @@
 	0.00	Role means paranoid teenagers murders?
 	0.00	Is singularity something to worry about?
 	0.00	Does one hand clap loudly?
-	0.00	who is the current president of the united states?
 	0.00	Is a saxophone alive?
 	0.00	Is a clarinet an animal?
 	0.00	Can a woman have a penis growing on her forehead?
@@ -35857,7 +35146,6 @@
 	0.00	Is God a physical entity?
 	0.00	has god setup a government in our time?
 	0.00	Will the Moon fall onto Earth?
-	0.00	what will be the winning lottery numbers for the 9-16-00 Florida lottery?
 	0.00	Is software the same as a flower?
 	0.00	can a 5 year old girl get pregnant?
 	0.00	Do all Irish people have red hair?
@@ -35886,9 +35174,7 @@
 	0.00	Is Intel a company that exports fruit?
 	0.00	Does God have blond hair and blue eyes?
 	0.00	Is DennisMyth his real name?
-	0.00	What is a modal?
 	0.00	are some people purple skinned?
-	0.00	What is the capital of Norway?
 	0.00	Can you eat a stone?
 	0.00	Can the Internet eat a potato?
 	0.00	Can a computer eat a potato?
@@ -35903,8 +35189,6 @@
 	0.00	Did Queen Elizabeth II ever rule the Roman Empire?
 	0.00	Is having a root canal a fun way to spend your day?
 	0.00	Are there only four colors in the rainbow?
-	0.00	What is a dinoflagellate?
-	0.00	Who is the leader of the Decepticons?
 	0.00	Does drinking milk lead to prostate cancer in all who consume it regularly?
 	0.00	Was Franklin Delano Roosevelt a janitor at the Whitehouse?
 	0.00	Is IBM an ice cream maker?
@@ -35913,7 +35197,6 @@
 	0.00	Are 5 seconds greater than 1 minute?
 	0.00	Does a person have 3 legs?
 	0.00	Is windows95 best operating system ever made?
-	0.00	What is the fastest type of computer?
 	0.00	do humans hibernate?
 	0.00	is an average penis bigger than 1 foot?
 	0.00	Am I a frog?
@@ -35921,13 +35204,10 @@
 	0.00	is texas in russia?
 	0.00	Every bird is black in colour?
 	0.00	Space is Solid?
-	0.00	Who was Albert Einstein?
 	0.00	is the moon made of green cheese ?
 	0.00	does the american flag have green and purple flowers on it?
 	0.00	Is it wise to remove rings before going on wedding anniversey dinner with your in-laws?
-	0.00	who won the 1998 ncaa mens basketball championship?
 	0.00	Is homophobia a derogatory term made up to smear and stereotype former homosexuals who have converted to heterosexuality?
-	0.00	what do empty barrels do?
 	0.00	Will man inhabit Mars by the year 2010?
 	0.00	Gandhi was an American?
 	0.00	is bread toxic?
@@ -35936,11 +35216,9 @@
 	0.00	Can people have relationships with umbrellas?
 	0.00	Is Mars a moon of Jupiter?
 	0.00	Do your toes catch fire often at night?
-	0.00	what is daVinciSyndrome?
 	0.00	is a window a species of fish?
 	0.00	Is 2 the square root of 9?
 	0.00	Do racoons have wings?
-	0.00	What is the air-speed velocity of an unladen swallow?
 	0.00	Are all animals flamingoes?
 	0.00	Can a battery-powered brass lantern shed light indefinitely?
 	0.00	Farts smell like roses?
@@ -35968,7 +35246,6 @@
 	0.00	most common colour of human eyes is black?
 	0.00	Is elephant is a human being?
 	0.00	Is India on Maars?
-	0.00	Where is maryland?
 	0.00	are you green ?
 	0.00	Are Arabs generally sexually impotent?
 	0.00	Are Indians the brightest people on earth?
@@ -35977,12 +35254,9 @@
 	0.00	Is the colour of sky green?
 	0.00	Is the Space Shuttle a British invention?
 	0.00	how many legs does a person have?
-	0.00	what is the golden ratio?
-	0.00	What does UNO stand for?
 	0.00	Is a square a circle?
 	0.00	can emus fly?
 	0.00	is slashdot good journalism?
-	0.00	what is dHTML?
 	0.00	does it snow in los angles?
 	0.00	Are wallets made of metal?
 	0.00	Is bread made from sand?
@@ -36026,7 +35300,6 @@
 	0.00	Is wallpaper a kind of paper made from recycled walls?
 	0.00	Is Sweden a tropical country?
 	0.00	Is using profane language at a formal occasion a good idea?
-	0.00	what color is a stop sign?
 	0.00	Was Helmut Kohl president of the United States of America?
 	0.00	Can a CD contain more data than a DVD?
 	0.00	are you able to breathe on moon ?
@@ -36037,29 +35310,23 @@
 	0.00	Sweat shirts have sweat glands?
 	0.00	Can a fish compose a symphony?
 	0.00	When a person takes a bath, does he or she stay dry?
-	0.00	What state is Denver in?
 	0.00	Can I grow younger?
 	0.00	Is white darker than black?
-	0.00	who conquered most civilized land in the history of world?
 	0.00	Do all men like big titties?
-	0.00	What time is it in Sidney, Austrailia?
 	0.00	should children be encouraged to behave badly?
 	0.00	are your creators gay ?
 	0.00	Does "pie-in-the-sky" refer to baked goods that has been dropped from airplanes?
 	0.00	Is a Magic 8-Ball accurate?
 	0.00	Is it possible to fall upwards while on Earth under normal circumstances?
-	0.00	What is a common an?mal in Australia?
 	0.00	can you use a pen to write on water?
 	0.00	Is yellow snow good to eat?
 	0.00	Can I fit a whale into my mouth?
-	0.00	Why does your stomach rumble?
 	0.00	Is a television made from cheese?
 	0.00	Will petroleum price rise stop?
 	0.00	Do all computers on a network receive a broadcast transmission?
 	0.00	Is too much coffee a good thing?
 	0.00	Does a person want to be hurt?
 	0.00	Is cheating a good thing?
-	0.00	who was the 5th president of the united states?
 	0.00	Does 245 plus 10 equal 150?
 	0.00	Is five plus five equal eleven on Venus?
 	0.00	If you cut a chair into two, do you get two chairs?
@@ -36070,7 +35337,6 @@
 	0.00	is the sun dark?
 	0.00	Do all chess players ride bicycles?
 	0.00	Is a telephone used to cut a cake?
-	0.00	What is the meaning of lfe?
 	0.00	Are elephants blue?
 	0.00	does harty ming boys for fun and profit?
 	0.00	do i have wings?
@@ -36100,7 +35366,6 @@
 	0.00	Is 10 plus 10 22?
 	0.00	does a zebra have seven legs?
 	0.00	usa is the biggest country in the world?
-	0.00	What are the Olympic Games?
 	0.00	Would a poker made from ice be useful?
 	0.00	Is nature really female?
 	0.00	Is Aristotle a famous composer?
@@ -36113,7 +35378,6 @@
 	0.00	Will a mirror on the wall tell you who is farest of them all if you ask really sincerely?
 	0.00	Is it good to punish an innocent man?
 	0.00	Do humans have sixteen legs?
-	0.00	Where is Michelle?
 	0.00	Has creation ever been proven?
 	0.00	Does a cow say "oink" ?
 	0.00	Is a feather heavier than a car?
